@@ -1,61 +1,34 @@
-This is a collection of tests for GCC. For further information about
-the C testsuite, see README.gcc.
+Typical settings for site.exp
 
-The driver that runs this testsuite is called DejaGnu and you will
-need a current DejaGnu snapshot, which is available from
-ftp://gcc.gnu.org/pub/gcc/infrastructure, for example.
+  1. test gcc:
+  
+  GCC_UNDER_TEST "gcc -DNO_LABEL_VALUES=1 -DSKIP_COMPLEX_INT=1 -DSKIP_ATTRIBUTE=1 -fno-builtin -save-temps" 
+  
+  2. test mlitecc with gcc as backend
+      
+  the gcc backend is used to test each small translation, the possible translation are:
+  --ast-aa-gram output C99 gram C code
+  --ast-ba-stmt output ba-stmt C code
+  --ast-ca-expr output ca-expr C code
+  --ast-da-type output da-type C code
+  --ast-ea-expr output ea-expr C code
+  --ast-eb-expr output eb-expr C code
+  --ast-ec-expr output ec-expr C code
+  --ast-fa-stmt output fa-stmt C code
+  --ast-ga-code output ga-code C code
+  --ast-ha-graf output ha-graf C code
+  --ast-ia-init output ia-init C code
 
-These tests are included "as is". If any of them fails, do not report
-a bug.  Bug reports for DejaGnu can go to bug-dejagnu@gnu.org.
-Discussion and comments about this testsuite should be sent to
-gcc@gcc.gnu.org; additions and changes to should go to sent to
-gcc-patches@gcc.gnu.org.
+  replace --ast-xx-xxx in the following command with any of the above options. 
+    	
+  GCC_UNDER_TEST "mlitecc ---silence --disable-line-number ---gcc --vararg --ast-xx-xxxx ---host-c-argv -DNO_LABEL_VALUES=1 -DSKIP_COMPLEX_INT=1 -DSKIP_ATTRIBUTE=1"
 
-The entire testsuite is invoked by `make check` at the top level of
-the GCC tree. `make check-g++` runs the C++ testsuite only.
 
-STRUCTURE OF THE G++ TESTSUITE
+  3. test mlitecc with qc-- as backend:
+  GCC_UNDER_TEST "mlitecc ---silence --disable-line-number --vararg ---host-c-argv -DNO_LABEL_VALUES=1 -DSKIP_COMPLEX_INT=1 -DSKIP_ATTRIBUTE=1"
 
-  g++.dg tests:
 
-  All new tests should be placed in an appropriate subdirectory of g++.dg.
+  4. after you have choosed your setting for site.exp, run 'make check'
 
-  g++.old-deja tests:
-
-  g++.benjamin	Tests by Benjamin Koz
-  g++.bob
-  g++.brendan	Tests by Brendan Kehoe
-  g++.bugs
-  g++.eh  	Tests for exception handling
-  g++.ext  	Tests for g++ extensions
-  g++.gb  	Tests by Gerald Baumgartner
-  g++.jason	Tests by Jason Merill
-  g++.jeff	Tests by Jeffrey A Law
-  g++.martin	Tests by Martin v. Löwis
-  g++.mike	Tests by Mike Stump
-  g++.niklas	Tests by Niklas Hallqvist
-  g++.ns  	Tests for namespaces
-  g++.other
-  g++.pt  	Tests for templates
-  g++.rfg
-  g++.robertl	Tests from gcc-bugs@gcc.gnu.org, gathered by Robert Lipe
-	
-Finally, some random last minute notes by Mike Stump <mrs@cygnus.com>, on
-how to run tests (in the GCC 2.7 era):
-
-	runtest --tool g++ --srcdir ./testsuite
-
-where 
-
-	runtest	Is the name used to invoke DejaGnu.   If DejaGnu is not
-		install this will be the relative path name for runtest.
-
-	--tool	This tells DejaGnu which tool you are testing. It is
-		mainly used to find the testsuite directories for a
-		particular tool when several testsuites are in the
-		same directory. (like the gcc and g++ testsuites)
-
-	--srcdir This points to the top level of the directory
-		containing the sources of the testsuite. This is
-		./testsuite if you are in the directory that has the
-		testsuite directory.
+  5. compare gcc.sum with gcc.sum.expected. In this release, mlitecc-0.1 with qc-- passes 2143 test cases, 
+     fails 511 test cases, and has 321 test cases unresolved.
