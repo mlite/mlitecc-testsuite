@@ -1,0 +1,15 @@
+typedef struct {
+ int f[8];
+} T;
+
+void g (int);
+
+f (w, l, r)
+     T *w;
+     unsigned short l, r;
+{
+  int i;
+
+  for (i = l; i < r; i++)
+    g (w->f[i]);
+}

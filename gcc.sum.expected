@@ -1,0 +1,3039 @@
+Test Run By wangn on Mon Jul  5 11:14:37 2010
+Native configuration is i686-pc-linux-gnu
+
+		=== gcc tests ===
+
+Schedule of variations:
+    unix
+
+Running target unix
+Running ./gcc.c-torture/compile/compile.exp ...
+PASS: gcc.c-torture/compile/20000105-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20000105-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000120-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000120-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000127-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000211-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000211-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000224-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000314-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000314-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000319-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000326-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000329-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000403-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20000403-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000405-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000405-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000412-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000412-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20000420-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000420-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000427-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000502-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000504-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000511-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000517-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000523-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000605-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000606-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000609-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000629-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000717-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000718.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000728-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000802-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000803-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20000818-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20000825-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20001024-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20001116-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20001116-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20001123-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20001123-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20001212-1.c -g (test for excess errors)
+WARNING: program timed out.
+FAIL: gcc.c-torture/compile/20001226-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/200031109-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20010102-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010107-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010113-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010114-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010117-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010117-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010209-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010227-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20010320-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010326-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010327-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20010328-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010329-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010404-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010408-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20010421-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010423-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010426-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010503-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010510-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20010518-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010518-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010525-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010605-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010610-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010611-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010701-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010706-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20010711-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20010711-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20010824-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011106-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011106-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011109-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011114-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011114-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011114-3.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20011114-4.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011130-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011130-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011217-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011218-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011219-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011219-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011229-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20011229-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020103-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020106-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020109-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020109-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020110.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020116-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020120-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020121-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020129-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020206-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020303-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020304-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020304-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020309-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020314-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020315-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020318-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020319-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020320-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020323-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020330-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020409-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020415-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020418-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020530-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020604-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020605-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020701-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020706-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020706-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020709-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020710-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020715-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020910-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020926-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20020927-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20020930-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021001-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021007-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20021008-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021015-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021015-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021103-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021119-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021124-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021205-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021212-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20021230-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030109-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030110-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030125-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030206-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030216-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030219-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030220-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030310-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030319-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030320-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030323-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20030330-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030331-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030405-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030410-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030415-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030416-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030503-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030518-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030530-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030604-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030605-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20030612-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030624-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030703-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030704-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030707-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030708-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030804-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030821-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030823-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030902-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030904-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030907-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030917-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20030921-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031002-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20031010-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031011-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031023-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031023-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031023-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031023-4.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031031-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031031-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031102-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031113-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031124-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031125-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031125-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031203-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20031203-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20031208-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031220-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031220-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031227-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20031231-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040109-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040121-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040124-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20040130-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040209-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040214-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040214-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040214-2_old.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040216-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040219-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040220-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040303-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040303-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20040309-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040317-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040401-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040415-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040415-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040419-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040610-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040621-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040624-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040705-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040708-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20040709-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040726-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040727-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040730-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040817-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040824-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040901-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040907-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040908-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040909-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040914-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20040916-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20041005-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20041007-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20041018-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20041026-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20041211-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050105-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050122-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050202-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050206-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050210-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050217-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20050303-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050328-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20050423-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050516-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050520-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050622-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050721-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050801-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20050802-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20051207-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20051216-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20051228-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20060208-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20060215-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/20060515-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/20090411_nwang.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/900116-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/900216-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/900313-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/900407-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/900516-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920409-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920409-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920410-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920410-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920411-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920413-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920428-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920428-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920428-5.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920428-6.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920428-7.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-10.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-11.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-12.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-15.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-17.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-18.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920501-19.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920501-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-20.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-21.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-22.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-22_nwang.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920501-23.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920501-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-4.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-6.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-8.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920501-9.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920502-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920529-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920608-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920611-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920615-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920617-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920617-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920623-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920624-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920625-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920625-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920626-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920701-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920702-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920706-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920710-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920711-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920721-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920723-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920729-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920806-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920809-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920817-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920820-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920821-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920821-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920825-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920825-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920828-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920829-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/920909-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920917-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920928-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920928-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920928-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/920928-6.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/921004-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921011-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/921011-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921012-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921013-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921019-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921021-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/921024-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921026-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921103-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921109-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921111-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921116-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/921118-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/921126-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921202-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921202-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/921203-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921206-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/921227-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930109-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930109-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930111-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/930117-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930126-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930210-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/930217-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930222-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930325-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930411-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930421-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930427-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930503-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930503-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/930506-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/930510-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930513-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930513-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930513-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930523-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930525-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930527-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930529-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930530-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930602-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930603-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930607-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930611-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930618-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930621-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/930926-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/930927-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/931003-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/931004-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/931013-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/931013-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/931031-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/931102-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/931102-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/931203-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/940611-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/940712-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/940718-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/941014-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/941014-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/941014-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/941111-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/941113-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950122-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950124-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950221-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/950512-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950530-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950607-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/950612-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950618-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950719-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/950729-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950816-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950816-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950816-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950910-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950919-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/950921-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/950922-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/951004-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/951106-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/951128-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/951220-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/951222-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/960106-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/960130-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/960201-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/960218-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/960220-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/960221-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/960319-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/960514-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/960704-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/960829-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/961004-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/961010-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/961019-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/961031-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/961126-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/961203-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/970206-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/970214-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/980329-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/980408-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/980504-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/980506-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/980506-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/980511-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/980701-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/980706-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/980726-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/980729-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/980816-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/980821-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/980825-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/981001-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/981001-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/981007-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/981107-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/990107-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/990203-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/990517-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990519-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/990523-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990527-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990625-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990625-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990801-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990801-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990829-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990913-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/990928-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/991008-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/991026-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/991026-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/991127-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/991202-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/991208-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/991213-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/991214-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/991214-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/991229-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/991229-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/991229-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/acc1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/calls.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/cmpdi-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/combine-hang.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/compound_literal_test.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/cpp-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/fix-trunc-mem-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/funcptr-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/goto-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/iftrap-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/iftrap-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/iftrap-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/init-2.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/inline-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/libcall-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/packed-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr12517.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr12578.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr12899.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr13066-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr13889.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr14692.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr14730.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr15245.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr16461.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr16566-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr16566-2.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr16566-3.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr16808.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr17119.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr17273.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr17407.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr17408.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr17558.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr17656.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr18291.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr18299-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr18712.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr19080.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr19121.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr19357.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr19736.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr19853.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr20203.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr20412.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr20539-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr20928.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr21021.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr21030.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr21293.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr21380.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr21532.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr21562.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr21638.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr21761.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr21840.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr22013-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr22269.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr22379.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr22398.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr22422.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr22531.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr22589-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr23233-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr23237.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/pr23435.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr23445.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr23476.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr23929.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr23944.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr23946.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr23960.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr24227.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr24883.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr24930.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr25310.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr25311.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pr27087.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/pta-1.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/structs.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/switch-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/sync-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/trunctfdf.c -g (test for excess errors)
+PASS: gcc.c-torture/compile/volatile-1.c -g (test for excess errors)
+FAIL: gcc.c-torture/compile/widechar-1.c -g (test for excess errors)
+Running ./gcc.c-torture/execute/builtins/builtins.exp ...
+FAIL: gcc.c-torture/execute/builtins/20010124-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/20010124-1.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/fprintf.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/fprintf.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/fputs.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/fputs.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/memcmp.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/memcmp.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/memmove-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/memmove-2.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/pr22237.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/pr22237.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/printf.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/printf.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/sprintf.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/sprintf.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strcat.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strcat.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strchr.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strchr.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strcmp.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strcmp.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strcpy-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strcpy-2.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strcpy.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strcpy.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strcspn.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strcspn.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strlen-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strlen-2.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strlen-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strlen-3.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strlen.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strlen.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strncat.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strncat.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strncmp-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strncmp-2.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strncpy.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strncpy.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strpbrk.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strpbrk.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strrchr.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strrchr.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strspn.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strspn.c execution, -g
+FAIL: gcc.c-torture/execute/builtins/strstr.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtins/strstr.c execution, -g
+Running ./gcc.c-torture/execute/execute.exp ...
+PASS: gcc.c-torture/execute/20000112-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000112-1.c execution, -g
+PASS: gcc.c-torture/execute/20000113-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000113-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000121-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000121-1.c execution, -g
+PASS: gcc.c-torture/execute/20000205-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000205-1.c execution, -g
+PASS: gcc.c-torture/execute/20000217-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000217-1.c execution, -g
+PASS: gcc.c-torture/execute/20000223-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000223-1.c execution, -g
+PASS: gcc.c-torture/execute/20000224-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000224-1.c execution, -g
+PASS: gcc.c-torture/execute/20000225-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000225-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000227-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000227-1.c execution, -g
+PASS: gcc.c-torture/execute/20000313-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000313-1.c execution, -g
+PASS: gcc.c-torture/execute/20000314-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000314-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000314-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000314-2.c execution, -g
+FAIL: gcc.c-torture/execute/20000314-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000314-3.c execution, -g
+PASS: gcc.c-torture/execute/20000402-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000402-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000403-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000403-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000412-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000412-1.c execution, -g
+PASS: gcc.c-torture/execute/20000412-2.c compilation, -g
+PASS: gcc.c-torture/execute/20000412-2.c execution, -g
+PASS: gcc.c-torture/execute/20000412-3.c compilation, -g
+PASS: gcc.c-torture/execute/20000412-3.c execution, -g
+PASS: gcc.c-torture/execute/20000412-4.c compilation, -g
+PASS: gcc.c-torture/execute/20000412-4.c execution, -g
+PASS: gcc.c-torture/execute/20000412-5.c compilation, -g
+PASS: gcc.c-torture/execute/20000412-5.c execution, -g
+FAIL: gcc.c-torture/execute/20000412-6.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000412-6.c execution, -g
+PASS: gcc.c-torture/execute/20000419-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000419-1.c execution, -g
+PASS: gcc.c-torture/execute/20000422-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000422-1.c execution, -g
+PASS: gcc.c-torture/execute/20000503-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000503-1.c execution, -g
+PASS: gcc.c-torture/execute/20000511-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000511-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000519-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000519-1.c execution, -g
+PASS: gcc.c-torture/execute/20000519-2.c compilation, -g
+PASS: gcc.c-torture/execute/20000519-2.c execution, -g
+FAIL: gcc.c-torture/execute/20000523-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000523-1.c execution, -g
+PASS: gcc.c-torture/execute/20000528-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000528-1.c execution, -g
+PASS: gcc.c-torture/execute/20000603-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000603-1.c execution, -g
+PASS: gcc.c-torture/execute/20000605-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000605-1.c execution, -g
+PASS: gcc.c-torture/execute/20000605-2.c compilation, -g
+PASS: gcc.c-torture/execute/20000605-2.c execution, -g
+PASS: gcc.c-torture/execute/20000605-3.c compilation, -g
+PASS: gcc.c-torture/execute/20000605-3.c execution, -g
+PASS: gcc.c-torture/execute/20000622-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000622-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000703-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000703-1.c execution, -g
+PASS: gcc.c-torture/execute/20000706-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000706-1.c execution, -g
+PASS: gcc.c-torture/execute/20000706-2.c compilation, -g
+PASS: gcc.c-torture/execute/20000706-2.c execution, -g
+FAIL: gcc.c-torture/execute/20000706-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000706-3.c execution, -g
+FAIL: gcc.c-torture/execute/20000706-4.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000706-4.c execution, -g
+PASS: gcc.c-torture/execute/20000706-5.c compilation, -g
+PASS: gcc.c-torture/execute/20000706-5.c execution, -g
+PASS: gcc.c-torture/execute/20000707-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000707-1.c execution, -g
+PASS: gcc.c-torture/execute/20000715-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000715-1.c execution, -g
+PASS: gcc.c-torture/execute/20000715-2.c compilation, -g
+PASS: gcc.c-torture/execute/20000715-2.c execution, -g
+PASS: gcc.c-torture/execute/20000717-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000717-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000717-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000717-2.c execution, -g
+PASS: gcc.c-torture/execute/20000717-3.c compilation, -g
+PASS: gcc.c-torture/execute/20000717-3.c execution, -g
+PASS: gcc.c-torture/execute/20000717-4.c compilation, -g
+PASS: gcc.c-torture/execute/20000717-4.c execution, -g
+PASS: gcc.c-torture/execute/20000717-5.c compilation, -g
+PASS: gcc.c-torture/execute/20000717-5.c execution, -g
+PASS: gcc.c-torture/execute/20000722-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000722-1.c execution, -g
+PASS: gcc.c-torture/execute/20000726-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000726-1.c execution, -g
+PASS: gcc.c-torture/execute/20000731-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000731-1.c execution, -g
+PASS: gcc.c-torture/execute/20000731-2.c compilation, -g
+PASS: gcc.c-torture/execute/20000731-2.c execution, -g
+FAIL: gcc.c-torture/execute/20000801-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000801-1.c execution, -g
+PASS: gcc.c-torture/execute/20000801-2.c compilation, -g
+PASS: gcc.c-torture/execute/20000801-2.c execution, -g
+PASS: gcc.c-torture/execute/20000801-4.c compilation, -g
+PASS: gcc.c-torture/execute/20000801-4.c execution, -g
+PASS: gcc.c-torture/execute/20000808-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000808-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000815-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000815-1.c execution, -g
+PASS: gcc.c-torture/execute/20000818-1.c compilation, -g
+PASS: gcc.c-torture/execute/20000818-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000819-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000819-1.c execution, -g
+FAIL: gcc.c-torture/execute/20000910-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20000910-1.c execution, -g
+PASS: gcc.c-torture/execute/20000910-2.c compilation, -g
+PASS: gcc.c-torture/execute/20000910-2.c execution, -g
+PASS: gcc.c-torture/execute/20001009-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001009-1.c execution, -g
+PASS: gcc.c-torture/execute/20001011-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001011-1.c execution, -g
+PASS: gcc.c-torture/execute/20001013-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001013-1.c execution, -g
+PASS: gcc.c-torture/execute/20001017-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001017-1.c execution, -g
+PASS: gcc.c-torture/execute/20001017-2.c compilation, -g
+PASS: gcc.c-torture/execute/20001017-2.c execution, -g
+PASS: gcc.c-torture/execute/20001024-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001024-1.c execution, -g
+FAIL: gcc.c-torture/execute/20001026-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20001026-1.c execution, -g
+PASS: gcc.c-torture/execute/20001027-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001027-1.c execution, -g
+FAIL: gcc.c-torture/execute/20001031-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20001031-1.c execution, -g
+PASS: gcc.c-torture/execute/20001101.c compilation, -g
+PASS: gcc.c-torture/execute/20001101.c execution, -g
+FAIL: gcc.c-torture/execute/20001108-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20001108-1.c execution, -g
+PASS: gcc.c-torture/execute/20001111-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001111-1.c execution, -g
+FAIL: gcc.c-torture/execute/20001112-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20001112-1.c execution, -g
+PASS: gcc.c-torture/execute/20001121-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001121-1.c execution, -g
+FAIL: gcc.c-torture/execute/20001124-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20001124-1.c execution, -g
+PASS: gcc.c-torture/execute/20001130-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001130-1.c execution, -g
+FAIL: gcc.c-torture/execute/20001130-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20001130-2.c execution, -g
+PASS: gcc.c-torture/execute/20001203-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001203-1.c execution, -g
+FAIL: gcc.c-torture/execute/20001221-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20001221-1.c execution, -g
+PASS: gcc.c-torture/execute/20001228-1.c compilation, -g
+PASS: gcc.c-torture/execute/20001228-1.c execution, -g
+PASS: gcc.c-torture/execute/20010106-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010106-1.c execution, -g
+PASS: gcc.c-torture/execute/20010114-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010114-1.c execution, -g
+PASS: gcc.c-torture/execute/20010116-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010116-1.c execution, -g
+FAIL: gcc.c-torture/execute/20010118-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20010118-1.c execution, -g
+PASS: gcc.c-torture/execute/20010119-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010119-1.c execution, -g
+PASS: gcc.c-torture/execute/20010123-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010123-1.c execution, -g
+PASS: gcc.c-torture/execute/20010129-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010129-1.c execution, -g
+PASS: gcc.c-torture/execute/20010206-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010206-1.c execution, -g
+PASS: gcc.c-torture/execute/20010221-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010221-1.c execution, -g
+PASS: gcc.c-torture/execute/20010222-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010222-1.c execution, -g
+FAIL: gcc.c-torture/execute/20010224-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20010224-1.c execution, -g
+FAIL: gcc.c-torture/execute/20010325-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20010325-1.c execution, -g
+PASS: gcc.c-torture/execute/20010329-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010329-1.c execution, -g
+FAIL: gcc.c-torture/execute/20010403-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20010403-1.c execution, -g
+PASS: gcc.c-torture/execute/20010409-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010409-1.c execution, -g
+PASS: gcc.c-torture/execute/20010422-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010422-1.c execution, -g
+PASS: gcc.c-torture/execute/20010518-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010518-1.c execution, -g
+PASS: gcc.c-torture/execute/20010518-2.c compilation, -g
+PASS: gcc.c-torture/execute/20010518-2.c execution, -g
+PASS: gcc.c-torture/execute/20010520-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010520-1.c execution, -g
+PASS: gcc.c-torture/execute/20010604-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010604-1.c execution, -g
+PASS: gcc.c-torture/execute/20010711-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010711-1.c execution, -g
+PASS: gcc.c-torture/execute/20010717-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010717-1.c execution, -g
+PASS: gcc.c-torture/execute/20010723-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010723-1.c execution, -g
+PASS: gcc.c-torture/execute/20010910-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010910-1.c execution, -g
+FAIL: gcc.c-torture/execute/20010915-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20010915-1.c execution, -g
+PASS: gcc.c-torture/execute/20010924-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010924-1.c execution, -g
+PASS: gcc.c-torture/execute/20010925-1.c compilation, -g
+PASS: gcc.c-torture/execute/20010925-1.c execution, -g
+PASS: gcc.c-torture/execute/20011008-3.c compilation, -g
+PASS: gcc.c-torture/execute/20011008-3.c execution, -g
+PASS: gcc.c-torture/execute/20011019-1.c compilation, -g
+PASS: gcc.c-torture/execute/20011019-1.c execution, -g
+PASS: gcc.c-torture/execute/20011024-1.c compilation, -g
+PASS: gcc.c-torture/execute/20011024-1.c execution, -g
+PASS: gcc.c-torture/execute/20011109-1.c compilation, -g
+PASS: gcc.c-torture/execute/20011109-1.c execution, -g
+PASS: gcc.c-torture/execute/20011109-2.c compilation, -g
+PASS: gcc.c-torture/execute/20011109-2.c execution, -g
+FAIL: gcc.c-torture/execute/20011113-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20011113-1.c execution, -g
+PASS: gcc.c-torture/execute/20011114-1.c compilation, -g
+PASS: gcc.c-torture/execute/20011114-1.c execution, -g
+PASS: gcc.c-torture/execute/20011115-1.c compilation, -g
+PASS: gcc.c-torture/execute/20011115-1.c execution, -g
+FAIL: gcc.c-torture/execute/20011121-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20011121-1.c execution, -g
+FAIL: gcc.c-torture/execute/20011126-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20011126-1.c execution, -g
+PASS: gcc.c-torture/execute/20011126-2.c compilation, -g
+PASS: gcc.c-torture/execute/20011126-2.c execution, -g
+PASS: gcc.c-torture/execute/20011128-1.c compilation, -g
+PASS: gcc.c-torture/execute/20011128-1.c execution, -g
+PASS: gcc.c-torture/execute/20011217-1.c compilation, -g
+PASS: gcc.c-torture/execute/20011217-1.c execution, -g
+PASS: gcc.c-torture/execute/20011219-1.c compilation, -g
+PASS: gcc.c-torture/execute/20011219-1.c execution, -g
+FAIL: gcc.c-torture/execute/20011223-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20011223-1.c execution, -g
+PASS: gcc.c-torture/execute/20020103-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020103-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020108-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020108-1.c execution, -g
+PASS: gcc.c-torture/execute/20020118-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020118-1.c execution, -g
+PASS: gcc.c-torture/execute/20020127-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020127-1.c execution, -g
+PASS: gcc.c-torture/execute/20020129-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020129-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020201-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020201-1.c execution, -g
+PASS: gcc.c-torture/execute/20020206-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020206-1.c execution, -g
+PASS: gcc.c-torture/execute/20020206-2.c compilation, -g
+PASS: gcc.c-torture/execute/20020206-2.c execution, -g
+FAIL: gcc.c-torture/execute/20020213-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020213-1.c execution, -g
+PASS: gcc.c-torture/execute/20020215-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020215-1.c execution, -g
+PASS: gcc.c-torture/execute/20020216-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020216-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020219-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020219-1.c execution, -g
+PASS: gcc.c-torture/execute/20020225-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020225-1.c execution, -g
+PASS: gcc.c-torture/execute/20020225-2.c compilation, -g
+PASS: gcc.c-torture/execute/20020225-2.c execution, -g
+FAIL: gcc.c-torture/execute/20020226-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020226-1.c execution, -g
+PASS: gcc.c-torture/execute/20020307-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020307-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020314-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020314-1.c execution, -g
+PASS: gcc.c-torture/execute/20020321-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020321-1.c execution, -g
+PASS: gcc.c-torture/execute/20020328-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020328-1.c execution, -g
+PASS: gcc.c-torture/execute/20020402-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020402-1.c execution, -g
+PASS: gcc.c-torture/execute/20020402-2.c compilation, -g
+PASS: gcc.c-torture/execute/20020402-2.c execution, -g
+FAIL: gcc.c-torture/execute/20020402-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020402-3.c execution, -g
+FAIL: gcc.c-torture/execute/20020404-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020404-1.c execution, -g
+PASS: gcc.c-torture/execute/20020406-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020406-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020413-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020413-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020418-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020418-1.c execution, -g
+PASS: gcc.c-torture/execute/20020423-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020423-1.c execution, -g
+PASS: gcc.c-torture/execute/20020503-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020503-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020506-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020506-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020508-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020508-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020508-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020508-2.c execution, -g
+FAIL: gcc.c-torture/execute/20020508-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020508-3.c execution, -g
+PASS: gcc.c-torture/execute/20020510-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020510-1.c execution, -g
+PASS: gcc.c-torture/execute/20020529-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020529-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020611-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020611-1.c execution, -g
+PASS: gcc.c-torture/execute/20020614-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020614-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020615-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020615-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020619-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020619-1.c execution, -g
+PASS: gcc.c-torture/execute/20020716-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020716-1.c execution, -g
+FAIL: gcc.c-torture/execute/20020720-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20020720-1.c execution, -g
+PASS: gcc.c-torture/execute/20020805-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020805-1.c execution, -g
+PASS: gcc.c-torture/execute/20020810-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020810-1.c execution, -g
+PASS: gcc.c-torture/execute/20020819-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020819-1.c execution, -g
+PASS: gcc.c-torture/execute/20020904-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020904-1.c execution, -g
+PASS: gcc.c-torture/execute/20020911-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020911-1.c execution, -g
+PASS: gcc.c-torture/execute/20020916-1.c compilation, -g
+PASS: gcc.c-torture/execute/20020916-1.c execution, -g
+PASS: gcc.c-torture/execute/20021010-1.c compilation, -g
+PASS: gcc.c-torture/execute/20021010-1.c execution, -g
+PASS: gcc.c-torture/execute/20021010-2.c compilation, -g
+PASS: gcc.c-torture/execute/20021010-2.c execution, -g
+FAIL: gcc.c-torture/execute/20021011-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20021011-1.c execution, -g
+FAIL: gcc.c-torture/execute/20021015-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20021015-1.c execution, -g
+FAIL: gcc.c-torture/execute/20021024-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20021024-1.c execution, -g
+PASS: gcc.c-torture/execute/20021111-1.c compilation, -g
+PASS: gcc.c-torture/execute/20021111-1.c execution, -g
+FAIL: gcc.c-torture/execute/20021113-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20021113-1.c execution, -g
+PASS: gcc.c-torture/execute/20021118-1.c compilation, -g
+PASS: gcc.c-torture/execute/20021118-1.c execution, -g
+FAIL: gcc.c-torture/execute/20021118-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20021118-2.c execution, -g
+PASS: gcc.c-torture/execute/20021118-3.c compilation, -g
+PASS: gcc.c-torture/execute/20021118-3.c execution, -g
+PASS: gcc.c-torture/execute/20021119-1.c compilation, -g
+PASS: gcc.c-torture/execute/20021119-1.c execution, -g
+PASS: gcc.c-torture/execute/20021120-1.c compilation, -g
+PASS: gcc.c-torture/execute/20021120-1.c execution, -g
+PASS: gcc.c-torture/execute/20021120-2.c compilation, -g
+PASS: gcc.c-torture/execute/20021120-2.c execution, -g
+PASS: gcc.c-torture/execute/20021204-1.c compilation, -g
+PASS: gcc.c-torture/execute/20021204-1.c execution, -g
+PASS: gcc.c-torture/execute/20021219-1.c compilation, -g
+PASS: gcc.c-torture/execute/20021219-1.c execution, -g
+PASS: gcc.c-torture/execute/20030105-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030105-1.c execution, -g
+PASS: gcc.c-torture/execute/20030117-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030117-1.c execution, -g
+FAIL: gcc.c-torture/execute/20030120-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20030120-1.c execution, -g
+PASS: gcc.c-torture/execute/20030120-2.c compilation, -g
+PASS: gcc.c-torture/execute/20030120-2.c execution, -g
+PASS: gcc.c-torture/execute/20030125-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030125-1.c execution, -g
+PASS: gcc.c-torture/execute/20030128-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030128-1.c execution, -g
+PASS: gcc.c-torture/execute/20030203-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030203-1.c execution, -g
+PASS: gcc.c-torture/execute/20030209-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030209-1.c execution, -g
+PASS: gcc.c-torture/execute/20030216-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030216-1.c execution, -g
+PASS: gcc.c-torture/execute/20030218-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030218-1.c execution, -g
+FAIL: gcc.c-torture/execute/20030221-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20030221-1.c execution, -g
+FAIL: gcc.c-torture/execute/20030307-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20030307-1.c execution, -g
+PASS: gcc.c-torture/execute/20030313-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030313-1.c execution, -g
+PASS: gcc.c-torture/execute/20030316-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030316-1.c execution, -g
+PASS: gcc.c-torture/execute/20030401-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030401-1.c execution, -g
+PASS: gcc.c-torture/execute/20030403-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030403-1.c execution, -g
+PASS: gcc.c-torture/execute/20030404-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030404-1.c execution, -g
+FAIL: gcc.c-torture/execute/20030408-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20030408-1.c execution, -g
+PASS: gcc.c-torture/execute/20030606-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030606-1.c execution, -g
+PASS: gcc.c-torture/execute/20030613-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030613-1.c execution, -g
+PASS: gcc.c-torture/execute/20030626-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030626-1.c execution, -g
+PASS: gcc.c-torture/execute/20030626-2.c compilation, -g
+PASS: gcc.c-torture/execute/20030626-2.c execution, -g
+PASS: gcc.c-torture/execute/20030715-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030715-1.c execution, -g
+FAIL: gcc.c-torture/execute/20030717-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20030717-1.c execution, -g
+PASS: gcc.c-torture/execute/20030718-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030718-1.c execution, -g
+PASS: gcc.c-torture/execute/20030821-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030821-1.c execution, -g
+PASS: gcc.c-torture/execute/20030828-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030828-1.c execution, -g
+PASS: gcc.c-torture/execute/20030828-2.c compilation, -g
+PASS: gcc.c-torture/execute/20030828-2.c execution, -g
+FAIL: gcc.c-torture/execute/20030903-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20030903-1.c execution, -g
+PASS: gcc.c-torture/execute/20030909-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030909-1.c execution, -g
+PASS: gcc.c-torture/execute/20030913-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030913-1.c execution, -g
+FAIL: gcc.c-torture/execute/20030914-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20030914-1.c execution, -g
+PASS: gcc.c-torture/execute/20030914-2.c compilation, -g
+PASS: gcc.c-torture/execute/20030914-2.c execution, -g
+PASS: gcc.c-torture/execute/20030916-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030916-1.c execution, -g
+PASS: gcc.c-torture/execute/20030920-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030920-1.c execution, -g
+PASS: gcc.c-torture/execute/20030928-1.c compilation, -g
+PASS: gcc.c-torture/execute/20030928-1.c execution, -g
+PASS: gcc.c-torture/execute/20031010-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031010-1.c execution, -g
+PASS: gcc.c-torture/execute/20031011-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031011-1.c execution, -g
+PASS: gcc.c-torture/execute/20031012-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031012-1.c execution, -g
+PASS: gcc.c-torture/execute/20031020-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031020-1.c execution, -g
+PASS: gcc.c-torture/execute/20031201-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031201-1.c execution, -g
+FAIL: gcc.c-torture/execute/20031204-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20031204-1.c execution, -g
+PASS: gcc.c-torture/execute/20031211-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031211-1.c execution, -g
+PASS: gcc.c-torture/execute/20031211-2.c compilation, -g
+PASS: gcc.c-torture/execute/20031211-2.c execution, -g
+PASS: gcc.c-torture/execute/20031214-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031214-1.c execution, -g
+PASS: gcc.c-torture/execute/20031215-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031215-1.c execution, -g
+PASS: gcc.c-torture/execute/20031216-1.c compilation, -g
+PASS: gcc.c-torture/execute/20031216-1.c execution, -g
+FAIL: gcc.c-torture/execute/20040208-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20040208-1.c execution, -g
+PASS: gcc.c-torture/execute/20040218-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040218-1.c execution, -g
+FAIL: gcc.c-torture/execute/20040223-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20040223-1.c execution, -g
+PASS: gcc.c-torture/execute/20040307-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040307-1.c execution, -g
+PASS: gcc.c-torture/execute/20040309-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040309-1.c execution, -g
+PASS: gcc.c-torture/execute/20040311-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040311-1.c execution, -g
+PASS: gcc.c-torture/execute/20040313-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040313-1.c execution, -g
+PASS: gcc.c-torture/execute/20040319-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040319-1.c execution, -g
+PASS: gcc.c-torture/execute/20040331-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040331-1.c execution, -g
+PASS: gcc.c-torture/execute/20040409-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040409-1.c execution, -g
+PASS: gcc.c-torture/execute/20040409-2.c compilation, -g
+PASS: gcc.c-torture/execute/20040409-2.c execution, -g
+PASS: gcc.c-torture/execute/20040409-3.c compilation, -g
+PASS: gcc.c-torture/execute/20040409-3.c execution, -g
+PASS: gcc.c-torture/execute/20040625-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040625-1.c execution, -g
+PASS: gcc.c-torture/execute/20040629-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040629-1.c execution, -g
+PASS: gcc.c-torture/execute/20040703-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040703-1.c execution, -g
+PASS: gcc.c-torture/execute/20040704-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040704-1.c execution, -g
+PASS: gcc.c-torture/execute/20040705-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040705-1.c execution, -g
+PASS: gcc.c-torture/execute/20040705-2.c compilation, -g
+PASS: gcc.c-torture/execute/20040705-2.c execution, -g
+PASS: gcc.c-torture/execute/20040706-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040706-1.c execution, -g
+PASS: gcc.c-torture/execute/20040707-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040707-1.c execution, -g
+FAIL: gcc.c-torture/execute/20040709-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20040709-2.c execution, -g
+PASS: gcc.c-torture/execute/20040805-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040805-1.c execution, -g
+PASS: gcc.c-torture/execute/20040820-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040820-1.c execution, -g
+PASS: gcc.c-torture/execute/20040823-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040823-1.c execution, -g
+FAIL: gcc.c-torture/execute/20040831-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20040831-1.c execution, -g
+PASS: gcc.c-torture/execute/20040917-1.c compilation, -g
+PASS: gcc.c-torture/execute/20040917-1.c execution, -g
+FAIL: gcc.c-torture/execute/20041011-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20041011-1.c execution, -g
+PASS: gcc.c-torture/execute/20041019-1.c compilation, -g
+PASS: gcc.c-torture/execute/20041019-1.c execution, -g
+PASS: gcc.c-torture/execute/20041112-1.c compilation, -g
+PASS: gcc.c-torture/execute/20041112-1.c execution, -g
+FAIL: gcc.c-torture/execute/20041113-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20041113-1.c execution, -g
+PASS: gcc.c-torture/execute/20041114-1.c compilation, -g
+PASS: gcc.c-torture/execute/20041114-1.c execution, -g
+PASS: gcc.c-torture/execute/20041210-1.c compilation, -g
+PASS: gcc.c-torture/execute/20041210-1.c execution, -g
+PASS: gcc.c-torture/execute/20041212-1.c compilation, -g
+PASS: gcc.c-torture/execute/20041212-1.c execution, -g
+PASS: gcc.c-torture/execute/20041213-2.c compilation, -g
+PASS: gcc.c-torture/execute/20041213-2.c execution, -g
+FAIL: gcc.c-torture/execute/20041218-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20041218-1.c execution, -g
+FAIL: gcc.c-torture/execute/20050104-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20050104-1.c execution, -g
+PASS: gcc.c-torture/execute/20050106-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050106-1.c execution, -g
+PASS: gcc.c-torture/execute/20050107-1.c compilation, -g
+FAIL: gcc.c-torture/execute/20050107-1.c execution, -g
+FAIL: gcc.c-torture/execute/20050111-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20050111-1.c execution, -g
+FAIL: gcc.c-torture/execute/20050119-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20050119-1.c execution, -g
+FAIL: gcc.c-torture/execute/20050119-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20050119-2.c execution, -g
+PASS: gcc.c-torture/execute/20050124-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050124-1.c execution, -g
+PASS: gcc.c-torture/execute/20050125-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050125-1.c execution, -g
+PASS: gcc.c-torture/execute/20050131-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050131-1.c execution, -g
+PASS: gcc.c-torture/execute/20050218-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050218-1.c execution, -g
+PASS: gcc.c-torture/execute/20050224-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050224-1.c execution, -g
+PASS: gcc.c-torture/execute/20050410-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050410-1.c execution, -g
+PASS: gcc.c-torture/execute/20050502-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050502-1.c execution, -g
+PASS: gcc.c-torture/execute/20050502-2.c compilation, -g
+PASS: gcc.c-torture/execute/20050502-2.c execution, -g
+PASS: gcc.c-torture/execute/20050613-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050613-1.c execution, -g
+PASS: gcc.c-torture/execute/20050713-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050713-1.c execution, -g
+PASS: gcc.c-torture/execute/20050826-1.c compilation, -g
+PASS: gcc.c-torture/execute/20050826-1.c execution, -g
+PASS: gcc.c-torture/execute/20050826-2.c compilation, -g
+PASS: gcc.c-torture/execute/20050826-2.c execution, -g
+PASS: gcc.c-torture/execute/20051012-1.c compilation, -g
+PASS: gcc.c-torture/execute/20051012-1.c execution, -g
+PASS: gcc.c-torture/execute/20051021-1.c compilation, -g
+PASS: gcc.c-torture/execute/20051021-1.c execution, -g
+PASS: gcc.c-torture/execute/20051104-1.c compilation, -g
+PASS: gcc.c-torture/execute/20051104-1.c execution, -g
+PASS: gcc.c-torture/execute/20051110-1.c compilation, -g
+PASS: gcc.c-torture/execute/20051110-1.c execution, -g
+PASS: gcc.c-torture/execute/20051110-2.c compilation, -g
+PASS: gcc.c-torture/execute/20051110-2.c execution, -g
+FAIL: gcc.c-torture/execute/20051113-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/20051113-1.c execution, -g
+PASS: gcc.c-torture/execute/20051215-1.c compilation, -g
+PASS: gcc.c-torture/execute/20051215-1.c execution, -g
+PASS: gcc.c-torture/execute/20080531_marray.c compilation, -g
+PASS: gcc.c-torture/execute/20080531_marray.c execution, -g
+PASS: gcc.c-torture/execute/20090411_nwang02.c compilation, -g
+PASS: gcc.c-torture/execute/20090411_nwang02.c execution, -g
+PASS: gcc.c-torture/execute/900409-1.c compilation, -g
+PASS: gcc.c-torture/execute/900409-1.c execution, -g
+PASS: gcc.c-torture/execute/920202-1.c compilation, -g
+PASS: gcc.c-torture/execute/920202-1.c execution, -g
+PASS: gcc.c-torture/execute/920409-1.c compilation, -g
+PASS: gcc.c-torture/execute/920409-1.c execution, -g
+PASS: gcc.c-torture/execute/920410-1.c compilation, -g
+PASS: gcc.c-torture/execute/920410-1.c execution, -g
+PASS: gcc.c-torture/execute/920411-1.c compilation, -g
+PASS: gcc.c-torture/execute/920411-1.c execution, -g
+PASS: gcc.c-torture/execute/920428-1.c compilation, -g
+PASS: gcc.c-torture/execute/920428-1.c execution, -g
+PASS: gcc.c-torture/execute/920429-1.c compilation, -g
+PASS: gcc.c-torture/execute/920429-1.c execution, -g
+PASS: gcc.c-torture/execute/920501-1.c compilation, -g
+PASS: gcc.c-torture/execute/920501-1.c execution, -g
+FAIL: gcc.c-torture/execute/920501-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920501-2.c execution, -g
+FAIL: gcc.c-torture/execute/920501-6.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920501-6.c execution, -g
+FAIL: gcc.c-torture/execute/920501-8.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920501-8.c execution, -g
+FAIL: gcc.c-torture/execute/920501-9.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920501-9.c execution, -g
+FAIL: gcc.c-torture/execute/920506-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920506-1.c execution, -g
+PASS: gcc.c-torture/execute/920520-1.c compilation, -g
+PASS: gcc.c-torture/execute/920520-1.c execution, -g
+PASS: gcc.c-torture/execute/920603-1.c compilation, -g
+PASS: gcc.c-torture/execute/920603-1.c execution, -g
+FAIL: gcc.c-torture/execute/920604-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920604-1.c execution, -g
+PASS: gcc.c-torture/execute/920612-1.c compilation, -g
+PASS: gcc.c-torture/execute/920612-1.c execution, -g
+FAIL: gcc.c-torture/execute/920618-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920618-1.c execution, -g
+FAIL: gcc.c-torture/execute/920625-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920625-1.c execution, -g
+FAIL: gcc.c-torture/execute/920710-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920710-1.c execution, -g
+PASS: gcc.c-torture/execute/920711-1.c compilation, -g
+PASS: gcc.c-torture/execute/920711-1.c execution, -g
+PASS: gcc.c-torture/execute/920721-1.c compilation, -g
+PASS: gcc.c-torture/execute/920721-1.c execution, -g
+PASS: gcc.c-torture/execute/920721-3.c compilation, -g
+PASS: gcc.c-torture/execute/920721-3.c execution, -g
+FAIL: gcc.c-torture/execute/920726-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920726-1.c execution, -g
+PASS: gcc.c-torture/execute/920728-1.c compilation, -g
+PASS: gcc.c-torture/execute/920728-1.c execution, -g
+PASS: gcc.c-torture/execute/920730-1.c compilation, -g
+PASS: gcc.c-torture/execute/920730-1.c execution, -g
+PASS: gcc.c-torture/execute/920731-1.c compilation, -g
+PASS: gcc.c-torture/execute/920731-1.c execution, -g
+PASS: gcc.c-torture/execute/920810-1.c compilation, -g
+PASS: gcc.c-torture/execute/920810-1.c execution, -g
+PASS: gcc.c-torture/execute/920812-1.c compilation, -g
+PASS: gcc.c-torture/execute/920812-1.c execution, -g
+FAIL: gcc.c-torture/execute/920829-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920829-1.c execution, -g
+FAIL: gcc.c-torture/execute/920908-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/920908-1.c execution, -g
+PASS: gcc.c-torture/execute/920908-2.c compilation, -g
+PASS: gcc.c-torture/execute/920908-2.c execution, -g
+PASS: gcc.c-torture/execute/920909-1.c compilation, -g
+PASS: gcc.c-torture/execute/920909-1.c execution, -g
+PASS: gcc.c-torture/execute/920922-1.c compilation, -g
+PASS: gcc.c-torture/execute/920922-1.c execution, -g
+PASS: gcc.c-torture/execute/921006-1.c compilation, -g
+PASS: gcc.c-torture/execute/921006-1.c execution, -g
+FAIL: gcc.c-torture/execute/921007-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/921007-1.c execution, -g
+PASS: gcc.c-torture/execute/921013-1.c compilation, -g
+PASS: gcc.c-torture/execute/921013-1.c execution, -g
+PASS: gcc.c-torture/execute/921016-1.c compilation, -g
+PASS: gcc.c-torture/execute/921016-1.c execution, -g
+FAIL: gcc.c-torture/execute/921019-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/921019-1.c execution, -g
+PASS: gcc.c-torture/execute/921019-2.c compilation, -g
+PASS: gcc.c-torture/execute/921019-2.c execution, -g
+FAIL: gcc.c-torture/execute/921029-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/921029-1.c execution, -g
+PASS: gcc.c-torture/execute/921104-1.c compilation, -g
+PASS: gcc.c-torture/execute/921104-1.c execution, -g
+PASS: gcc.c-torture/execute/921110-1.c compilation, -g
+PASS: gcc.c-torture/execute/921110-1.c execution, -g
+PASS: gcc.c-torture/execute/921112-1.c compilation, -g
+PASS: gcc.c-torture/execute/921112-1.c execution, -g
+FAIL: gcc.c-torture/execute/921113-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/921113-1.c execution, -g
+PASS: gcc.c-torture/execute/921117-1.c compilation, -g
+PASS: gcc.c-torture/execute/921117-1.c execution, -g
+PASS: gcc.c-torture/execute/921123-1.c compilation, -g
+PASS: gcc.c-torture/execute/921123-1.c execution, -g
+PASS: gcc.c-torture/execute/921123-2.c compilation, -g
+PASS: gcc.c-torture/execute/921123-2.c execution, -g
+PASS: gcc.c-torture/execute/921124-1.c compilation, -g
+PASS: gcc.c-torture/execute/921124-1.c execution, -g
+PASS: gcc.c-torture/execute/921202-1.c compilation, -g
+PASS: gcc.c-torture/execute/921202-1.c execution, -g
+FAIL: gcc.c-torture/execute/921202-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/921202-2.c execution, -g
+PASS: gcc.c-torture/execute/921204-1.c compilation, -g
+PASS: gcc.c-torture/execute/921204-1.c execution, -g
+PASS: gcc.c-torture/execute/921207-1.c compilation, -g
+PASS: gcc.c-torture/execute/921207-1.c execution, -g
+PASS: gcc.c-torture/execute/921208-1.c compilation, -g
+PASS: gcc.c-torture/execute/921208-1.c execution, -g
+PASS: gcc.c-torture/execute/921208-2.c compilation, -g
+PASS: gcc.c-torture/execute/921208-2.c execution, -g
+PASS: gcc.c-torture/execute/921218-1.c compilation, -g
+PASS: gcc.c-torture/execute/921218-1.c execution, -g
+PASS: gcc.c-torture/execute/921218-2.c compilation, -g
+PASS: gcc.c-torture/execute/921218-2.c execution, -g
+PASS: gcc.c-torture/execute/930106-1.c compilation, -g
+PASS: gcc.c-torture/execute/930106-1.c execution, -g
+FAIL: gcc.c-torture/execute/930111-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/930111-1.c execution, -g
+PASS: gcc.c-torture/execute/930123-1.c compilation, -g
+PASS: gcc.c-torture/execute/930123-1.c execution, -g
+FAIL: gcc.c-torture/execute/930126-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/930126-1.c execution, -g
+PASS: gcc.c-torture/execute/930208-1.c compilation, -g
+PASS: gcc.c-torture/execute/930208-1.c execution, -g
+PASS: gcc.c-torture/execute/930408-1.c compilation, -g
+PASS: gcc.c-torture/execute/930408-1.c execution, -g
+FAIL: gcc.c-torture/execute/930429-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/930429-1.c execution, -g
+PASS: gcc.c-torture/execute/930429-2.c compilation, -g
+PASS: gcc.c-torture/execute/930429-2.c execution, -g
+PASS: gcc.c-torture/execute/930513-1.c compilation, -g
+PASS: gcc.c-torture/execute/930513-1.c execution, -g
+PASS: gcc.c-torture/execute/930513-2.c compilation, -g
+PASS: gcc.c-torture/execute/930513-2.c execution, -g
+PASS: gcc.c-torture/execute/930518-1.c compilation, -g
+PASS: gcc.c-torture/execute/930518-1.c execution, -g
+PASS: gcc.c-torture/execute/930526-1.c compilation, -g
+PASS: gcc.c-torture/execute/930526-1.c execution, -g
+FAIL: gcc.c-torture/execute/930527-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/930527-1.c execution, -g
+PASS: gcc.c-torture/execute/930529-1.c compilation, -g
+PASS: gcc.c-torture/execute/930529-1.c execution, -g
+PASS: gcc.c-torture/execute/930603-2.c compilation, -g
+PASS: gcc.c-torture/execute/930603-2.c execution, -g
+FAIL: gcc.c-torture/execute/930603-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/930603-3.c execution, -g
+PASS: gcc.c-torture/execute/930608-1.c compilation, -g
+PASS: gcc.c-torture/execute/930608-1.c execution, -g
+PASS: gcc.c-torture/execute/930614-1.c compilation, -g
+PASS: gcc.c-torture/execute/930614-1.c execution, -g
+PASS: gcc.c-torture/execute/930614-2.c compilation, -g
+PASS: gcc.c-torture/execute/930614-2.c execution, -g
+PASS: gcc.c-torture/execute/930621-1.c compilation, -g
+PASS: gcc.c-torture/execute/930621-1.c execution, -g
+PASS: gcc.c-torture/execute/930622-1.c compilation, -g
+PASS: gcc.c-torture/execute/930622-1.c execution, -g
+FAIL: gcc.c-torture/execute/930622-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/930622-2.c execution, -g
+PASS: gcc.c-torture/execute/930628-1.c compilation, -g
+PASS: gcc.c-torture/execute/930628-1.c execution, -g
+PASS: gcc.c-torture/execute/930630-1.c compilation, -g
+PASS: gcc.c-torture/execute/930630-1.c execution, -g
+PASS: gcc.c-torture/execute/930702-1.c compilation, -g
+PASS: gcc.c-torture/execute/930702-1.c execution, -g
+PASS: gcc.c-torture/execute/930713-1.c compilation, -g
+PASS: gcc.c-torture/execute/930713-1.c execution, -g
+PASS: gcc.c-torture/execute/930718-1.c compilation, -g
+PASS: gcc.c-torture/execute/930718-1.c execution, -g
+PASS: gcc.c-torture/execute/930719-1.c compilation, -g
+PASS: gcc.c-torture/execute/930719-1.c execution, -g
+PASS: gcc.c-torture/execute/930725-1.c compilation, -g
+PASS: gcc.c-torture/execute/930725-1.c execution, -g
+PASS: gcc.c-torture/execute/930818-1.c compilation, -g
+PASS: gcc.c-torture/execute/930818-1.c execution, -g
+PASS: gcc.c-torture/execute/930916-1.c compilation, -g
+PASS: gcc.c-torture/execute/930916-1.c execution, -g
+FAIL: gcc.c-torture/execute/930921-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/930921-1.c execution, -g
+PASS: gcc.c-torture/execute/930929-1.c compilation, -g
+PASS: gcc.c-torture/execute/930929-1.c execution, -g
+PASS: gcc.c-torture/execute/930930-1.c compilation, -g
+PASS: gcc.c-torture/execute/930930-1.c execution, -g
+PASS: gcc.c-torture/execute/930930-2.c compilation, -g
+PASS: gcc.c-torture/execute/930930-2.c execution, -g
+PASS: gcc.c-torture/execute/931004-1.c compilation, -g
+PASS: gcc.c-torture/execute/931004-1.c execution, -g
+FAIL: gcc.c-torture/execute/931004-10.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931004-10.c execution, -g
+PASS: gcc.c-torture/execute/931004-11.c compilation, -g
+PASS: gcc.c-torture/execute/931004-11.c execution, -g
+FAIL: gcc.c-torture/execute/931004-12.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931004-12.c execution, -g
+PASS: gcc.c-torture/execute/931004-13.c compilation, -g
+PASS: gcc.c-torture/execute/931004-13.c execution, -g
+FAIL: gcc.c-torture/execute/931004-14.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931004-14.c execution, -g
+FAIL: gcc.c-torture/execute/931004-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931004-2.c execution, -g
+PASS: gcc.c-torture/execute/931004-3.c compilation, -g
+PASS: gcc.c-torture/execute/931004-3.c execution, -g
+FAIL: gcc.c-torture/execute/931004-4.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931004-4.c execution, -g
+PASS: gcc.c-torture/execute/931004-5.c compilation, -g
+PASS: gcc.c-torture/execute/931004-5.c execution, -g
+FAIL: gcc.c-torture/execute/931004-6.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931004-6.c execution, -g
+PASS: gcc.c-torture/execute/931004-7.c compilation, -g
+PASS: gcc.c-torture/execute/931004-7.c execution, -g
+FAIL: gcc.c-torture/execute/931004-8.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931004-8.c execution, -g
+PASS: gcc.c-torture/execute/931004-9.c compilation, -g
+PASS: gcc.c-torture/execute/931004-9.c execution, -g
+PASS: gcc.c-torture/execute/931005-1.c compilation, -g
+PASS: gcc.c-torture/execute/931005-1.c execution, -g
+PASS: gcc.c-torture/execute/931009-1.c compilation, -g
+PASS: gcc.c-torture/execute/931009-1.c execution, -g
+PASS: gcc.c-torture/execute/931012-1.c compilation, -g
+PASS: gcc.c-torture/execute/931012-1.c execution, -g
+PASS: gcc.c-torture/execute/931017-1.c compilation, -g
+PASS: gcc.c-torture/execute/931017-1.c execution, -g
+PASS: gcc.c-torture/execute/931018-1.c compilation, -g
+PASS: gcc.c-torture/execute/931018-1.c execution, -g
+PASS: gcc.c-torture/execute/931031-1.c compilation, -g
+PASS: gcc.c-torture/execute/931031-1.c execution, -g
+FAIL: gcc.c-torture/execute/931102-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931102-1.c execution, -g
+FAIL: gcc.c-torture/execute/931102-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931102-2.c execution, -g
+FAIL: gcc.c-torture/execute/931110-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931110-1.c execution, -g
+FAIL: gcc.c-torture/execute/931110-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/931110-2.c execution, -g
+PASS: gcc.c-torture/execute/931208-1.c compilation, -g
+PASS: gcc.c-torture/execute/931208-1.c execution, -g
+PASS: gcc.c-torture/execute/931228-1.c compilation, -g
+PASS: gcc.c-torture/execute/931228-1.c execution, -g
+PASS: gcc.c-torture/execute/940115-1.c compilation, -g
+PASS: gcc.c-torture/execute/940115-1.c execution, -g
+PASS: gcc.c-torture/execute/940122-1.c compilation, -g
+PASS: gcc.c-torture/execute/940122-1.c execution, -g
+PASS: gcc.c-torture/execute/941014-1.c compilation, -g
+PASS: gcc.c-torture/execute/941014-1.c execution, -g
+PASS: gcc.c-torture/execute/941014-2.c compilation, -g
+PASS: gcc.c-torture/execute/941014-2.c execution, -g
+FAIL: gcc.c-torture/execute/941015-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/941015-1.c execution, -g
+PASS: gcc.c-torture/execute/941021-1.c compilation, -g
+PASS: gcc.c-torture/execute/941021-1.c execution, -g
+PASS: gcc.c-torture/execute/941025-1.c compilation, -g
+PASS: gcc.c-torture/execute/941025-1.c execution, -g
+PASS: gcc.c-torture/execute/941031-1.c compilation, -g
+PASS: gcc.c-torture/execute/941031-1.c execution, -g
+PASS: gcc.c-torture/execute/941101-1.c compilation, -g
+PASS: gcc.c-torture/execute/941101-1.c execution, -g
+FAIL: gcc.c-torture/execute/941110-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/941110-1.c execution, -g
+FAIL: gcc.c-torture/execute/941202-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/941202-1.c execution, -g
+FAIL: gcc.c-torture/execute/950221-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950221-1.c execution, -g
+PASS: gcc.c-torture/execute/950322-1.c compilation, -g
+PASS: gcc.c-torture/execute/950322-1.c execution, -g
+PASS: gcc.c-torture/execute/950426-1.c compilation, -g
+PASS: gcc.c-torture/execute/950426-1.c execution, -g
+PASS: gcc.c-torture/execute/950426-2.c compilation, -g
+PASS: gcc.c-torture/execute/950426-2.c execution, -g
+FAIL: gcc.c-torture/execute/950503-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950503-1.c execution, -g
+FAIL: gcc.c-torture/execute/950511-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950511-1.c execution, -g
+FAIL: gcc.c-torture/execute/950512-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950512-1.c execution, -g
+PASS: gcc.c-torture/execute/950605-1.c compilation, -g
+PASS: gcc.c-torture/execute/950605-1.c execution, -g
+PASS: gcc.c-torture/execute/950607-1.c compilation, -g
+PASS: gcc.c-torture/execute/950607-1.c execution, -g
+FAIL: gcc.c-torture/execute/950607-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950607-2.c execution, -g
+FAIL: gcc.c-torture/execute/950612-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950612-1.c execution, -g
+PASS: gcc.c-torture/execute/950621-1.c compilation, -g
+PASS: gcc.c-torture/execute/950621-1.c execution, -g
+PASS: gcc.c-torture/execute/950628-1.c compilation, -g
+PASS: gcc.c-torture/execute/950628-1.c execution, -g
+FAIL: gcc.c-torture/execute/950704-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950704-1.c execution, -g
+PASS: gcc.c-torture/execute/950706-1.c compilation, -g
+PASS: gcc.c-torture/execute/950706-1.c execution, -g
+PASS: gcc.c-torture/execute/950710-1.c compilation, -g
+PASS: gcc.c-torture/execute/950710-1.c execution, -g
+PASS: gcc.c-torture/execute/950714-1.c compilation, -g
+PASS: gcc.c-torture/execute/950714-1.c execution, -g
+FAIL: gcc.c-torture/execute/950809-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950809-1.c execution, -g
+FAIL: gcc.c-torture/execute/950915-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/950915-1.c execution, -g
+PASS: gcc.c-torture/execute/950929-1.c compilation, -g
+PASS: gcc.c-torture/execute/950929-1.c execution, -g
+PASS: gcc.c-torture/execute/951003-1.c compilation, -g
+PASS: gcc.c-torture/execute/951003-1.c execution, -g
+PASS: gcc.c-torture/execute/951115-1.c compilation, -g
+PASS: gcc.c-torture/execute/951115-1.c execution, -g
+PASS: gcc.c-torture/execute/951204-1.c compilation, -g
+PASS: gcc.c-torture/execute/951204-1.c execution, -g
+PASS: gcc.c-torture/execute/960116-1.c compilation, -g
+PASS: gcc.c-torture/execute/960116-1.c execution, -g
+PASS: gcc.c-torture/execute/960117-1.c compilation, -g
+PASS: gcc.c-torture/execute/960117-1.c execution, -g
+PASS: gcc.c-torture/execute/960209-1.c compilation, -g
+PASS: gcc.c-torture/execute/960209-1.c execution, -g
+FAIL: gcc.c-torture/execute/960215-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960215-1.c execution, -g
+PASS: gcc.c-torture/execute/960218-1.c compilation, -g
+PASS: gcc.c-torture/execute/960218-1.c execution, -g
+PASS: gcc.c-torture/execute/960219-1.c compilation, -g
+PASS: gcc.c-torture/execute/960219-1.c execution, -g
+PASS: gcc.c-torture/execute/960301-1.c compilation, -g
+PASS: gcc.c-torture/execute/960301-1.c execution, -g
+PASS: gcc.c-torture/execute/960302-1.c compilation, -g
+PASS: gcc.c-torture/execute/960302-1.c execution, -g
+FAIL: gcc.c-torture/execute/960311-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960311-1.c execution, -g
+FAIL: gcc.c-torture/execute/960311-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960311-2.c execution, -g
+PASS: gcc.c-torture/execute/960311-3.c compilation, -g
+PASS: gcc.c-torture/execute/960311-3.c execution, -g
+PASS: gcc.c-torture/execute/960317-1.c compilation, -g
+PASS: gcc.c-torture/execute/960317-1.c execution, -g
+FAIL: gcc.c-torture/execute/960321-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960321-1.c execution, -g
+PASS: gcc.c-torture/execute/960326-1.c compilation, -g
+PASS: gcc.c-torture/execute/960326-1.c execution, -g
+FAIL: gcc.c-torture/execute/960327-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960327-1.c execution, -g
+FAIL: gcc.c-torture/execute/960402-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960402-1.c execution, -g
+FAIL: gcc.c-torture/execute/960405-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960405-1.c execution, -g
+FAIL: gcc.c-torture/execute/960416-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960416-1.c execution, -g
+PASS: gcc.c-torture/execute/960419-1.c compilation, -g
+PASS: gcc.c-torture/execute/960419-1.c execution, -g
+PASS: gcc.c-torture/execute/960419-2.c compilation, -g
+PASS: gcc.c-torture/execute/960419-2.c execution, -g
+FAIL: gcc.c-torture/execute/960513-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960513-1.c execution, -g
+PASS: gcc.c-torture/execute/960521-1.c compilation, -g
+PASS: gcc.c-torture/execute/960521-1.c execution, -g
+FAIL: gcc.c-torture/execute/960608-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960608-1.c execution, -g
+FAIL: gcc.c-torture/execute/960801-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/960801-1.c execution, -g
+PASS: gcc.c-torture/execute/960802-1.c compilation, -g
+PASS: gcc.c-torture/execute/960802-1.c execution, -g
+PASS: gcc.c-torture/execute/960909-1.c compilation, -g
+PASS: gcc.c-torture/execute/960909-1.c execution, -g
+PASS: gcc.c-torture/execute/961004-1.c compilation, -g
+PASS: gcc.c-torture/execute/961004-1.c execution, -g
+PASS: gcc.c-torture/execute/961017-1.c compilation, -g
+PASS: gcc.c-torture/execute/961017-1.c execution, -g
+PASS: gcc.c-torture/execute/961017-2.c compilation, -g
+PASS: gcc.c-torture/execute/961017-2.c execution, -g
+PASS: gcc.c-torture/execute/961026-1.c compilation, -g
+PASS: gcc.c-torture/execute/961026-1.c execution, -g
+PASS: gcc.c-torture/execute/961112-1.c compilation, -g
+PASS: gcc.c-torture/execute/961112-1.c execution, -g
+FAIL: gcc.c-torture/execute/961122-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/961122-1.c execution, -g
+PASS: gcc.c-torture/execute/961122-2.c compilation, -g
+PASS: gcc.c-torture/execute/961122-2.c execution, -g
+PASS: gcc.c-torture/execute/961125-1.c compilation, -g
+PASS: gcc.c-torture/execute/961125-1.c execution, -g
+FAIL: gcc.c-torture/execute/961206-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/961206-1.c execution, -g
+FAIL: gcc.c-torture/execute/961213-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/961213-1.c execution, -g
+PASS: gcc.c-torture/execute/961223-1.c compilation, -g
+PASS: gcc.c-torture/execute/961223-1.c execution, -g
+PASS: gcc.c-torture/execute/970214-1.c compilation, -g
+PASS: gcc.c-torture/execute/970214-1.c execution, -g
+PASS: gcc.c-torture/execute/970214-2.c compilation, -g
+PASS: gcc.c-torture/execute/970214-2.c execution, -g
+PASS: gcc.c-torture/execute/970923-1.c compilation, -g
+PASS: gcc.c-torture/execute/970923-1.c execution, -g
+FAIL: gcc.c-torture/execute/980205.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/980205.c execution, -g
+PASS: gcc.c-torture/execute/980223.c compilation, -g
+PASS: gcc.c-torture/execute/980223.c execution, -g
+PASS: gcc.c-torture/execute/980424-1.c compilation, -g
+PASS: gcc.c-torture/execute/980424-1.c execution, -g
+PASS: gcc.c-torture/execute/980505-1.c compilation, -g
+PASS: gcc.c-torture/execute/980505-1.c execution, -g
+FAIL: gcc.c-torture/execute/980505-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/980505-2.c execution, -g
+PASS: gcc.c-torture/execute/980506-1.c compilation, -g
+PASS: gcc.c-torture/execute/980506-1.c execution, -g
+PASS: gcc.c-torture/execute/980506-2.c compilation, -g
+PASS: gcc.c-torture/execute/980506-2.c execution, -g
+PASS: gcc.c-torture/execute/980506-3.c compilation, -g
+PASS: gcc.c-torture/execute/980506-3.c execution, -g
+FAIL: gcc.c-torture/execute/980526-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/980526-2.c execution, -g
+PASS: gcc.c-torture/execute/980526-3.c compilation, -g
+PASS: gcc.c-torture/execute/980526-3.c execution, -g
+PASS: gcc.c-torture/execute/980602-1.c compilation, -g
+PASS: gcc.c-torture/execute/980602-1.c execution, -g
+PASS: gcc.c-torture/execute/980602-2.c compilation, -g
+PASS: gcc.c-torture/execute/980602-2.c execution, -g
+PASS: gcc.c-torture/execute/980604-1.c compilation, -g
+PASS: gcc.c-torture/execute/980604-1.c execution, -g
+PASS: gcc.c-torture/execute/980605-1.c compilation, -g
+PASS: gcc.c-torture/execute/980605-1.c execution, -g
+FAIL: gcc.c-torture/execute/980608-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/980608-1.c execution, -g
+PASS: gcc.c-torture/execute/980612-1.c compilation, -g
+PASS: gcc.c-torture/execute/980612-1.c execution, -g
+PASS: gcc.c-torture/execute/980617-1.c compilation, -g
+PASS: gcc.c-torture/execute/980617-1.c execution, -g
+PASS: gcc.c-torture/execute/980618-1.c compilation, -g
+PASS: gcc.c-torture/execute/980618-1.c execution, -g
+FAIL: gcc.c-torture/execute/980701-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/980701-1.c execution, -g
+PASS: gcc.c-torture/execute/980707-1.c compilation, -g
+PASS: gcc.c-torture/execute/980707-1.c execution, -g
+FAIL: gcc.c-torture/execute/980709-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/980709-1.c execution, -g
+FAIL: gcc.c-torture/execute/980716-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/980716-1.c execution, -g
+PASS: gcc.c-torture/execute/980929-1.c compilation, -g
+PASS: gcc.c-torture/execute/980929-1.c execution, -g
+PASS: gcc.c-torture/execute/981001-1.c compilation, -g
+PASS: gcc.c-torture/execute/981001-1.c execution, -g
+PASS: gcc.c-torture/execute/981019-1.c compilation, -g
+PASS: gcc.c-torture/execute/981019-1.c execution, -g
+PASS: gcc.c-torture/execute/981130-1.c compilation, -g
+PASS: gcc.c-torture/execute/981130-1.c execution, -g
+PASS: gcc.c-torture/execute/981206-1.c compilation, -g
+PASS: gcc.c-torture/execute/981206-1.c execution, -g
+PASS: gcc.c-torture/execute/990106-1.c compilation, -g
+PASS: gcc.c-torture/execute/990106-1.c execution, -g
+PASS: gcc.c-torture/execute/990106-2.c compilation, -g
+PASS: gcc.c-torture/execute/990106-2.c execution, -g
+PASS: gcc.c-torture/execute/990117-1.c compilation, -g
+PASS: gcc.c-torture/execute/990117-1.c execution, -g
+PASS: gcc.c-torture/execute/990127-1.c compilation, -g
+PASS: gcc.c-torture/execute/990127-1.c execution, -g
+PASS: gcc.c-torture/execute/990127-2.c compilation, -g
+PASS: gcc.c-torture/execute/990127-2.c execution, -g
+PASS: gcc.c-torture/execute/990128-1.c compilation, -g
+PASS: gcc.c-torture/execute/990128-1.c execution, -g
+PASS: gcc.c-torture/execute/990208-1.c compilation, -g
+PASS: gcc.c-torture/execute/990208-1.c execution, -g
+PASS: gcc.c-torture/execute/990211-1.c compilation, -g
+PASS: gcc.c-torture/execute/990211-1.c execution, -g
+FAIL: gcc.c-torture/execute/990222-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/990222-1.c execution, -g
+PASS: gcc.c-torture/execute/990324-1.c compilation, -g
+PASS: gcc.c-torture/execute/990324-1.c execution, -g
+FAIL: gcc.c-torture/execute/990326-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/990326-1.c execution, -g
+PASS: gcc.c-torture/execute/990404-1.c compilation, -g
+PASS: gcc.c-torture/execute/990404-1.c execution, -g
+PASS: gcc.c-torture/execute/990513-1.c compilation, -g
+PASS: gcc.c-torture/execute/990513-1.c execution, -g
+FAIL: gcc.c-torture/execute/990524-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/990524-1.c execution, -g
+PASS: gcc.c-torture/execute/990525-1.c compilation, -g
+PASS: gcc.c-torture/execute/990525-1.c execution, -g
+PASS: gcc.c-torture/execute/990525-2.c compilation, -g
+PASS: gcc.c-torture/execute/990525-2.c execution, -g
+PASS: gcc.c-torture/execute/990527-1.c compilation, -g
+PASS: gcc.c-torture/execute/990527-1.c execution, -g
+PASS: gcc.c-torture/execute/990531-1.c compilation, -g
+PASS: gcc.c-torture/execute/990531-1.c execution, -g
+PASS: gcc.c-torture/execute/990604-1.c compilation, -g
+PASS: gcc.c-torture/execute/990604-1.c execution, -g
+PASS: gcc.c-torture/execute/990628-1.c compilation, -g
+PASS: gcc.c-torture/execute/990628-1.c execution, -g
+PASS: gcc.c-torture/execute/990804-1.c compilation, -g
+PASS: gcc.c-torture/execute/990804-1.c execution, -g
+PASS: gcc.c-torture/execute/990811-1.c compilation, -g
+PASS: gcc.c-torture/execute/990811-1.c execution, -g
+FAIL: gcc.c-torture/execute/990826-0.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/990826-0.c execution, -g
+PASS: gcc.c-torture/execute/990827-1.c compilation, -g
+PASS: gcc.c-torture/execute/990827-1.c execution, -g
+PASS: gcc.c-torture/execute/990829-1.c compilation, -g
+PASS: gcc.c-torture/execute/990829-1.c execution, -g
+PASS: gcc.c-torture/execute/990923-1.c compilation, -g
+PASS: gcc.c-torture/execute/990923-1.c execution, -g
+PASS: gcc.c-torture/execute/991014-1.c compilation, -g
+PASS: gcc.c-torture/execute/991014-1.c execution, -g
+FAIL: gcc.c-torture/execute/991016-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/991016-1.c execution, -g
+PASS: gcc.c-torture/execute/991019-1.c compilation, -g
+PASS: gcc.c-torture/execute/991019-1.c execution, -g
+PASS: gcc.c-torture/execute/991023-1.c compilation, -g
+PASS: gcc.c-torture/execute/991023-1.c execution, -g
+PASS: gcc.c-torture/execute/991030-1.c compilation, -g
+PASS: gcc.c-torture/execute/991030-1.c execution, -g
+PASS: gcc.c-torture/execute/991112-1.c compilation, -g
+PASS: gcc.c-torture/execute/991112-1.c execution, -g
+FAIL: gcc.c-torture/execute/991118-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/991118-1.c execution, -g
+FAIL: gcc.c-torture/execute/991201-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/991201-1.c execution, -g
+PASS: gcc.c-torture/execute/991202-1.c compilation, -g
+PASS: gcc.c-torture/execute/991202-1.c execution, -g
+PASS: gcc.c-torture/execute/991202-2.c compilation, -g
+PASS: gcc.c-torture/execute/991202-2.c execution, -g
+PASS: gcc.c-torture/execute/991202-3.c compilation, -g
+PASS: gcc.c-torture/execute/991202-3.c execution, -g
+FAIL: gcc.c-torture/execute/991216-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/991216-1.c execution, -g
+FAIL: gcc.c-torture/execute/991216-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/991216-2.c execution, -g
+PASS: gcc.c-torture/execute/991216-4.c compilation, -g
+PASS: gcc.c-torture/execute/991216-4.c execution, -g
+PASS: gcc.c-torture/execute/991221-1.c compilation, -g
+PASS: gcc.c-torture/execute/991221-1.c execution, -g
+PASS: gcc.c-torture/execute/991227-1.c compilation, -g
+PASS: gcc.c-torture/execute/991227-1.c execution, -g
+FAIL: gcc.c-torture/execute/991228-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/991228-1.c execution, -g
+PASS: gcc.c-torture/execute/align-1.c compilation, -g
+PASS: gcc.c-torture/execute/align-1.c execution, -g
+FAIL: gcc.c-torture/execute/align-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/align-2.c execution, -g
+FAIL: gcc.c-torture/execute/alloca-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/alloca-1.c execution, -g
+PASS: gcc.c-torture/execute/arith-1.c compilation, -g
+PASS: gcc.c-torture/execute/arith-1.c execution, -g
+FAIL: gcc.c-torture/execute/arith-rand-ll.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/arith-rand-ll.c execution, -g
+PASS: gcc.c-torture/execute/arith-rand.c compilation, -g
+PASS: gcc.c-torture/execute/arith-rand.c execution, -g
+FAIL: gcc.c-torture/execute/ashldi-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ashldi-1.c execution, -g
+FAIL: gcc.c-torture/execute/ashrdi-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ashrdi-1.c execution, -g
+PASS: gcc.c-torture/execute/bf-layout-1.c compilation, -g
+PASS: gcc.c-torture/execute/bf-layout-1.c execution, -g
+PASS: gcc.c-torture/execute/bf-sign-1.c compilation, -g
+PASS: gcc.c-torture/execute/bf-sign-1.c execution, -g
+FAIL: gcc.c-torture/execute/bf-sign-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/bf-sign-2.c execution, -g
+FAIL: gcc.c-torture/execute/bf64-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/bf64-1.c execution, -g
+PASS: gcc.c-torture/execute/bitfld-2.c compilation, -g
+PASS: gcc.c-torture/execute/bitfld-2.c execution, -g
+FAIL: gcc.c-torture/execute/bitfld-4.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/bitfld-4.c execution, -g
+FAIL: gcc.c-torture/execute/built-in-setjmp.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/built-in-setjmp.c execution, -g
+FAIL: gcc.c-torture/execute/builtin-prefetch-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtin-prefetch-2.c execution, -g
+FAIL: gcc.c-torture/execute/builtin-prefetch-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtin-prefetch-3.c execution, -g
+FAIL: gcc.c-torture/execute/builtin-prefetch-4.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtin-prefetch-4.c execution, -g
+FAIL: gcc.c-torture/execute/builtin-prefetch-5.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtin-prefetch-5.c execution, -g
+FAIL: gcc.c-torture/execute/builtin-prefetch-6.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/builtin-prefetch-6.c execution, -g
+PASS: gcc.c-torture/execute/cbrt.c compilation, -g
+PASS: gcc.c-torture/execute/cbrt.c execution, -g
+FAIL: gcc.c-torture/execute/cmpdi-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/cmpdi-1.c execution, -g
+PASS: gcc.c-torture/execute/cmpsi-1.c compilation, -g
+PASS: gcc.c-torture/execute/cmpsi-1.c execution, -g
+PASS: gcc.c-torture/execute/comp-goto-1.c compilation, -g
+PASS: gcc.c-torture/execute/comp-goto-1.c execution, -g
+PASS: gcc.c-torture/execute/compare-1.c compilation, -g
+PASS: gcc.c-torture/execute/compare-1.c execution, -g
+PASS: gcc.c-torture/execute/compare-2.c compilation, -g
+PASS: gcc.c-torture/execute/compare-2.c execution, -g
+PASS: gcc.c-torture/execute/compare-3.c compilation, -g
+PASS: gcc.c-torture/execute/compare-3.c execution, -g
+PASS: gcc.c-torture/execute/complex-3.c compilation, -g
+PASS: gcc.c-torture/execute/complex-3.c execution, -g
+FAIL: gcc.c-torture/execute/const-addr-expr-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/const-addr-expr-1.c execution, -g
+FAIL: gcc.c-torture/execute/conversion.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/conversion.c execution, -g
+PASS: gcc.c-torture/execute/cvt-1.c compilation, -g
+PASS: gcc.c-torture/execute/cvt-1.c execution, -g
+PASS: gcc.c-torture/execute/dbra-1.c compilation, -g
+PASS: gcc.c-torture/execute/dbra-1.c execution, -g
+PASS: gcc.c-torture/execute/divcmp-1.c compilation, -g
+FAIL: gcc.c-torture/execute/divcmp-1.c execution, -g
+PASS: gcc.c-torture/execute/divcmp-2.c compilation, -g
+FAIL: gcc.c-torture/execute/divcmp-2.c execution, -g
+PASS: gcc.c-torture/execute/divcmp-3.c compilation, -g
+PASS: gcc.c-torture/execute/divcmp-3.c execution, -g
+PASS: gcc.c-torture/execute/divcmp-4.c compilation, -g
+FAIL: gcc.c-torture/execute/divcmp-4.c execution, -g
+PASS: gcc.c-torture/execute/divconst-1.c compilation, -g
+PASS: gcc.c-torture/execute/divconst-1.c execution, -g
+PASS: gcc.c-torture/execute/divconst-2.c compilation, -g
+PASS: gcc.c-torture/execute/divconst-2.c execution, -g
+FAIL: gcc.c-torture/execute/divconst-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/divconst-3.c execution, -g
+PASS: gcc.c-torture/execute/divmod-1.c compilation, -g
+PASS: gcc.c-torture/execute/divmod-1.c execution, -g
+PASS: gcc.c-torture/execute/enum-1.c compilation, -g
+PASS: gcc.c-torture/execute/enum-1.c execution, -g
+PASS: gcc.c-torture/execute/enum-2.c compilation, -g
+PASS: gcc.c-torture/execute/enum-2.c execution, -g
+PASS: gcc.c-torture/execute/extzvsi.c compilation, -g
+PASS: gcc.c-torture/execute/extzvsi.c execution, -g
+FAIL: gcc.c-torture/execute/float-floor.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/float-floor.c execution, -g
+PASS: gcc.c-torture/execute/fprintf-1.c compilation, -g
+PASS: gcc.c-torture/execute/fprintf-1.c execution, -g
+FAIL: gcc.c-torture/execute/fprintf-chk-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/fprintf-chk-1.c execution, -g
+PASS: gcc.c-torture/execute/func-ptr-1.c compilation, -g
+PASS: gcc.c-torture/execute/func-ptr-1.c execution, -g
+PASS: gcc.c-torture/execute/gofast.c compilation, -g
+PASS: gcc.c-torture/execute/gofast.c execution, -g
+PASS: gcc.c-torture/execute/index-1.c compilation, -g
+PASS: gcc.c-torture/execute/index-1.c execution, -g
+PASS: gcc.c-torture/execute/inst-check.c compilation, -g
+PASS: gcc.c-torture/execute/inst-check.c execution, -g
+PASS: gcc.c-torture/execute/int-compare.c compilation, -g
+PASS: gcc.c-torture/execute/int-compare.c execution, -g
+FAIL: gcc.c-torture/execute/longlong.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/longlong.c execution, -g
+PASS: gcc.c-torture/execute/loop-1.c compilation, -g
+PASS: gcc.c-torture/execute/loop-1.c execution, -g
+PASS: gcc.c-torture/execute/loop-10.c compilation, -g
+PASS: gcc.c-torture/execute/loop-10.c execution, -g
+PASS: gcc.c-torture/execute/loop-11.c compilation, -g
+PASS: gcc.c-torture/execute/loop-11.c execution, -g
+PASS: gcc.c-torture/execute/loop-12.c compilation, -g
+PASS: gcc.c-torture/execute/loop-12.c execution, -g
+PASS: gcc.c-torture/execute/loop-13.c compilation, -g
+PASS: gcc.c-torture/execute/loop-13.c execution, -g
+PASS: gcc.c-torture/execute/loop-14.c compilation, -g
+PASS: gcc.c-torture/execute/loop-14.c execution, -g
+PASS: gcc.c-torture/execute/loop-15.c compilation, -g
+PASS: gcc.c-torture/execute/loop-15.c execution, -g
+PASS: gcc.c-torture/execute/loop-2.c compilation, -g
+PASS: gcc.c-torture/execute/loop-2.c execution, -g
+PASS: gcc.c-torture/execute/loop-2b.c compilation, -g
+PASS: gcc.c-torture/execute/loop-2b.c execution, -g
+PASS: gcc.c-torture/execute/loop-2c.c compilation, -g
+PASS: gcc.c-torture/execute/loop-2c.c execution, -g
+PASS: gcc.c-torture/execute/loop-2d.c compilation, -g
+PASS: gcc.c-torture/execute/loop-2d.c execution, -g
+FAIL: gcc.c-torture/execute/loop-2e.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/loop-2e.c execution, -g
+FAIL: gcc.c-torture/execute/loop-2f.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/loop-2f.c execution, -g
+FAIL: gcc.c-torture/execute/loop-2g.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/loop-2g.c execution, -g
+PASS: gcc.c-torture/execute/loop-3.c compilation, -g
+PASS: gcc.c-torture/execute/loop-3.c execution, -g
+PASS: gcc.c-torture/execute/loop-3b.c compilation, -g
+PASS: gcc.c-torture/execute/loop-3b.c execution, -g
+PASS: gcc.c-torture/execute/loop-3c.c compilation, -g
+PASS: gcc.c-torture/execute/loop-3c.c execution, -g
+PASS: gcc.c-torture/execute/loop-4.c compilation, -g
+PASS: gcc.c-torture/execute/loop-4.c execution, -g
+PASS: gcc.c-torture/execute/loop-4b.c compilation, -g
+PASS: gcc.c-torture/execute/loop-4b.c execution, -g
+PASS: gcc.c-torture/execute/loop-5.c compilation, -g
+PASS: gcc.c-torture/execute/loop-5.c execution, -g
+PASS: gcc.c-torture/execute/loop-6.c compilation, -g
+PASS: gcc.c-torture/execute/loop-6.c execution, -g
+PASS: gcc.c-torture/execute/loop-7.c compilation, -g
+PASS: gcc.c-torture/execute/loop-7.c execution, -g
+PASS: gcc.c-torture/execute/loop-8.c compilation, -g
+PASS: gcc.c-torture/execute/loop-8.c execution, -g
+PASS: gcc.c-torture/execute/loop-9.c compilation, -g
+PASS: gcc.c-torture/execute/loop-9.c execution, -g
+PASS: gcc.c-torture/execute/loop-ivopts-1.c compilation, -g
+PASS: gcc.c-torture/execute/loop-ivopts-1.c execution, -g
+PASS: gcc.c-torture/execute/loop-ivopts-2.c compilation, -g
+PASS: gcc.c-torture/execute/loop-ivopts-2.c execution, -g
+FAIL: gcc.c-torture/execute/loop-ivopts-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/loop-ivopts-3.c execution, -g
+FAIL: gcc.c-torture/execute/lshrdi-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/lshrdi-1.c execution, -g
+PASS: gcc.c-torture/execute/mayalias-1.c compilation, -g
+PASS: gcc.c-torture/execute/mayalias-1.c execution, -g
+PASS: gcc.c-torture/execute/medce-1.c compilation, -g
+PASS: gcc.c-torture/execute/medce-1.c execution, -g
+PASS: gcc.c-torture/execute/memcpy-1.c compilation, -g
+PASS: gcc.c-torture/execute/memcpy-1.c execution, -g
+PASS: gcc.c-torture/execute/memcpy-2.c compilation, -g
+PASS: gcc.c-torture/execute/memcpy-2.c execution, -g
+FAIL: gcc.c-torture/execute/memcpy-bi.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/memcpy-bi.c execution, -g
+PASS: gcc.c-torture/execute/memset-1.c compilation, -g
+PASS: gcc.c-torture/execute/memset-1.c execution, -g
+PASS: gcc.c-torture/execute/memset-2.c compilation, -g
+PASS: gcc.c-torture/execute/memset-2.c execution, -g
+PASS: gcc.c-torture/execute/memset-3.c compilation, -g
+PASS: gcc.c-torture/execute/memset-3.c execution, -g
+PASS: gcc.c-torture/execute/mod-1.c compilation, -g
+PASS: gcc.c-torture/execute/mod-1.c execution, -g
+FAIL: gcc.c-torture/execute/multdi-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/multdi-1.c execution, -g
+FAIL: gcc.c-torture/execute/multi-ix.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/multi-ix.c execution, -g
+PASS: gcc.c-torture/execute/nestfunc-4.c compilation, -g
+PASS: gcc.c-torture/execute/nestfunc-4.c execution, -g
+FAIL: gcc.c-torture/execute/p18298.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/p18298.c execution, -g
+PASS: gcc.c-torture/execute/packed-1.c compilation, -g
+PASS: gcc.c-torture/execute/packed-1.c execution, -g
+PASS: gcc.c-torture/execute/packed-2.c compilation, -g
+PASS: gcc.c-torture/execute/packed-2.c execution, -g
+PASS: gcc.c-torture/execute/pending-4.c compilation, -g
+PASS: gcc.c-torture/execute/pending-4.c execution, -g
+PASS: gcc.c-torture/execute/pr15262-1.c compilation, -g
+PASS: gcc.c-torture/execute/pr15262-1.c execution, -g
+PASS: gcc.c-torture/execute/pr15262-2.c compilation, -g
+PASS: gcc.c-torture/execute/pr15262-2.c execution, -g
+PASS: gcc.c-torture/execute/pr15262.c compilation, -g
+PASS: gcc.c-torture/execute/pr15262.c execution, -g
+PASS: gcc.c-torture/execute/pr16790-1.c compilation, -g
+PASS: gcc.c-torture/execute/pr16790-1.c execution, -g
+PASS: gcc.c-torture/execute/pr17078-1.c compilation, -g
+PASS: gcc.c-torture/execute/pr17078-1.c execution, -g
+PASS: gcc.c-torture/execute/pr17133.c compilation, -g
+PASS: gcc.c-torture/execute/pr17133.c execution, -g
+PASS: gcc.c-torture/execute/pr17252.c compilation, -g
+PASS: gcc.c-torture/execute/pr17252.c execution, -g
+PASS: gcc.c-torture/execute/pr19005.c compilation, -g
+PASS: gcc.c-torture/execute/pr19005.c execution, -g
+PASS: gcc.c-torture/execute/pr19515.c compilation, -g
+PASS: gcc.c-torture/execute/pr19515.c execution, -g
+PASS: gcc.c-torture/execute/pr19687.c compilation, -g
+PASS: gcc.c-torture/execute/pr19687.c execution, -g
+PASS: gcc.c-torture/execute/pr19689.c compilation, -g
+PASS: gcc.c-torture/execute/pr19689.c execution, -g
+PASS: gcc.c-torture/execute/pr20100-1.c compilation, -g
+PASS: gcc.c-torture/execute/pr20100-1.c execution, -g
+PASS: gcc.c-torture/execute/pr20466-1.c compilation, -g
+PASS: gcc.c-torture/execute/pr20466-1.c execution, -g
+FAIL: gcc.c-torture/execute/pr20527-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/pr20527-1.c execution, -g
+FAIL: gcc.c-torture/execute/pr20601-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/pr20601-1.c execution, -g
+PASS: gcc.c-torture/execute/pr20621-1.c compilation, -g
+PASS: gcc.c-torture/execute/pr20621-1.c execution, -g
+PASS: gcc.c-torture/execute/pr21173.c compilation, -g
+PASS: gcc.c-torture/execute/pr21173.c execution, -g
+PASS: gcc.c-torture/execute/pr21331.c compilation, -g
+PASS: gcc.c-torture/execute/pr21331.c execution, -g
+PASS: gcc.c-torture/execute/pr21964-1.c compilation, -g
+PASS: gcc.c-torture/execute/pr21964-1.c execution, -g
+PASS: gcc.c-torture/execute/pr22348.c compilation, -g
+PASS: gcc.c-torture/execute/pr22348.c execution, -g
+PASS: gcc.c-torture/execute/pr22429.c compilation, -g
+PASS: gcc.c-torture/execute/pr22429.c execution, -g
+PASS: gcc.c-torture/execute/pr22493-1.c compilation, -g
+PASS: gcc.c-torture/execute/pr22493-1.c execution, -g
+PASS: gcc.c-torture/execute/pr22630.c compilation, -g
+PASS: gcc.c-torture/execute/pr22630.c execution, -g
+PASS: gcc.c-torture/execute/pr23047.c compilation, -g
+PASS: gcc.c-torture/execute/pr23047.c execution, -g
+PASS: gcc.c-torture/execute/pr23467.c compilation, -g
+FAIL: gcc.c-torture/execute/pr23467.c execution, -g
+PASS: gcc.c-torture/execute/pr23604.c compilation, -g
+PASS: gcc.c-torture/execute/pr23604.c execution, -g
+PASS: gcc.c-torture/execute/pr23941.c compilation, -g
+PASS: gcc.c-torture/execute/pr23941.c execution, -g
+PASS: gcc.c-torture/execute/pr24141.c compilation, -g
+PASS: gcc.c-torture/execute/pr24141.c execution, -g
+PASS: gcc.c-torture/execute/pr24142.c compilation, -g
+PASS: gcc.c-torture/execute/pr24142.c execution, -g
+PASS: gcc.c-torture/execute/pr24716.c compilation, -g
+PASS: gcc.c-torture/execute/pr24716.c execution, -g
+PASS: gcc.c-torture/execute/pr24851.c compilation, -g
+PASS: gcc.c-torture/execute/pr24851.c execution, -g
+PASS: gcc.c-torture/execute/pr25125.c compilation, -g
+PASS: gcc.c-torture/execute/pr25125.c execution, -g
+PASS: gcc.c-torture/execute/pr25737.c compilation, -g
+PASS: gcc.c-torture/execute/pr25737.c execution, -g
+PASS: gcc.c-torture/execute/pr27285.c compilation, -g
+PASS: gcc.c-torture/execute/pr27285.c execution, -g
+PASS: gcc.c-torture/execute/printf-1.c compilation, -g
+PASS: gcc.c-torture/execute/printf-1.c execution, -g
+FAIL: gcc.c-torture/execute/printf-chk-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/printf-chk-1.c execution, -g
+FAIL: gcc.c-torture/execute/ptr-arith-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ptr-arith-1.c execution, -g
+PASS: gcc.c-torture/execute/pure-1.c compilation, -g
+PASS: gcc.c-torture/execute/pure-1.c execution, -g
+FAIL: gcc.c-torture/execute/regstack-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/regstack-1.c execution, -g
+PASS: gcc.c-torture/execute/restrict-1.c compilation, -g
+PASS: gcc.c-torture/execute/restrict-1.c execution, -g
+PASS: gcc.c-torture/execute/scope-1.c compilation, -g
+PASS: gcc.c-torture/execute/scope-1.c execution, -g
+FAIL: gcc.c-torture/execute/shiftdi.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/shiftdi.c execution, -g
+PASS: gcc.c-torture/execute/shiftopt-1.c compilation, -g
+PASS: gcc.c-torture/execute/shiftopt-1.c execution, -g
+FAIL: gcc.c-torture/execute/stdarg-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/stdarg-2.c execution, -g
+FAIL: gcc.c-torture/execute/stdarg-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/stdarg-3.c execution, -g
+FAIL: gcc.c-torture/execute/stdarg-4.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/stdarg-4.c execution, -g
+PASS: gcc.c-torture/execute/strcmp-1.c compilation, -g
+PASS: gcc.c-torture/execute/strcmp-1.c execution, -g
+PASS: gcc.c-torture/execute/strcpy-1.c compilation, -g
+PASS: gcc.c-torture/execute/strcpy-1.c execution, -g
+PASS: gcc.c-torture/execute/strct-pack-1.c compilation, -g
+PASS: gcc.c-torture/execute/strct-pack-1.c execution, -g
+PASS: gcc.c-torture/execute/strct-pack-2.c compilation, -g
+PASS: gcc.c-torture/execute/strct-pack-2.c execution, -g
+PASS: gcc.c-torture/execute/strct-pack-3.c compilation, -g
+PASS: gcc.c-torture/execute/strct-pack-3.c execution, -g
+PASS: gcc.c-torture/execute/strct-pack-4.c compilation, -g
+PASS: gcc.c-torture/execute/strct-pack-4.c execution, -g
+FAIL: gcc.c-torture/execute/strct-stdarg-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/strct-stdarg-1.c execution, -g
+FAIL: gcc.c-torture/execute/strct-varg-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/strct-varg-1.c execution, -g
+PASS: gcc.c-torture/execute/string-opt-17.c compilation, -g
+PASS: gcc.c-torture/execute/string-opt-17.c execution, -g
+PASS: gcc.c-torture/execute/string-opt-18.c compilation, -g
+PASS: gcc.c-torture/execute/string-opt-18.c execution, -g
+PASS: gcc.c-torture/execute/string-opt-5.c compilation, -g
+PASS: gcc.c-torture/execute/string-opt-5.c execution, -g
+PASS: gcc.c-torture/execute/strlen-1.c compilation, -g
+PASS: gcc.c-torture/execute/strlen-1.c execution, -g
+PASS: gcc.c-torture/execute/strncmp-1.c compilation, -g
+PASS: gcc.c-torture/execute/strncmp-1.c execution, -g
+PASS: gcc.c-torture/execute/struct-cpy-1.c compilation, -g
+PASS: gcc.c-torture/execute/struct-cpy-1.c execution, -g
+PASS: gcc.c-torture/execute/struct-ini-1.c compilation, -g
+PASS: gcc.c-torture/execute/struct-ini-1.c execution, -g
+FAIL: gcc.c-torture/execute/struct-ini-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/struct-ini-3.c execution, -g
+PASS: gcc.c-torture/execute/struct-ini-4.c compilation, -g
+PASS: gcc.c-torture/execute/struct-ini-4.c execution, -g
+FAIL: gcc.c-torture/execute/struct-ret-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/struct-ret-1.c execution, -g
+PASS: gcc.c-torture/execute/struct-ret-2.c compilation, -g
+PASS: gcc.c-torture/execute/struct-ret-2.c execution, -g
+PASS: gcc.c-torture/execute/switch-1.c compilation, -g
+PASS: gcc.c-torture/execute/switch-1.c execution, -g
+FAIL: gcc.c-torture/execute/tcctest_file.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/tcctest_file.c execution, -g
+FAIL: gcc.c-torture/execute/tstdi-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/tstdi-1.c execution, -g
+PASS: gcc.c-torture/execute/unroll-1.c compilation, -g
+PASS: gcc.c-torture/execute/unroll-1.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-1.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-11.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-11.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-12.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-12.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-13.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-13.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-15.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-15.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-16.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-16.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-17.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-17.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-18.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-18.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-19.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-19.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-2.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-20.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-20.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-21.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-21.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-23.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-23.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-24.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-24.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-26.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-26.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-4.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-4.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-5.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-5.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-6.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-6.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-7.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-7.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-8.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-8.c execution, -g
+FAIL: gcc.c-torture/execute/va-arg-9.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/va-arg-9.c execution, -g
+FAIL: gcc.c-torture/execute/vfprintf-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/vfprintf-1.c execution, -g
+FAIL: gcc.c-torture/execute/vfprintf-chk-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/vfprintf-chk-1.c execution, -g
+FAIL: gcc.c-torture/execute/vprintf-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/vprintf-1.c execution, -g
+FAIL: gcc.c-torture/execute/vprintf-chk-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/vprintf-chk-1.c execution, -g
+PASS: gcc.c-torture/execute/vrp-1.c compilation, -g
+PASS: gcc.c-torture/execute/vrp-1.c execution, -g
+PASS: gcc.c-torture/execute/vrp-2.c compilation, -g
+PASS: gcc.c-torture/execute/vrp-2.c execution, -g
+PASS: gcc.c-torture/execute/vrp-3.c compilation, -g
+PASS: gcc.c-torture/execute/vrp-3.c execution, -g
+PASS: gcc.c-torture/execute/vrp-4.c compilation, -g
+PASS: gcc.c-torture/execute/vrp-4.c execution, -g
+PASS: gcc.c-torture/execute/vrp-5.c compilation, -g
+PASS: gcc.c-torture/execute/vrp-5.c execution, -g
+PASS: gcc.c-torture/execute/vrp-6.c compilation, -g
+PASS: gcc.c-torture/execute/vrp-6.c execution, -g
+PASS: gcc.c-torture/execute/wangn025.c compilation, -g
+PASS: gcc.c-torture/execute/wangn025.c execution, -g
+PASS: gcc.c-torture/execute/widechar-1.c compilation, -g
+PASS: gcc.c-torture/execute/widechar-1.c execution, -g
+FAIL: gcc.c-torture/execute/widechar-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/widechar-2.c execution, -g
+FAIL: gcc.c-torture/execute/wn20081003_01.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/wn20081003_01.c execution, -g
+PASS: gcc.c-torture/execute/zerolen-1.c compilation, -g
+PASS: gcc.c-torture/execute/zerolen-1.c execution, -g
+FAIL: gcc.c-torture/execute/zerolen-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/zerolen-2.c execution, -g
+Running ./gcc.c-torture/execute/ieee/ieee.exp ...
+PASS: gcc.c-torture/execute/ieee/20000320-1.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/20000320-1.c execution, -g
+PASS: gcc.c-torture/execute/ieee/20001122-1.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/20001122-1.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/20010114-2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/20010114-2.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/20010226-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/20010226-1.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/20011123-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/20011123-1.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/20030331-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/20030331-1.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/20041213-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/20041213-1.c execution, -g
+PASS: gcc.c-torture/execute/ieee/920518-1.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/920518-1.c execution, -g
+PASS: gcc.c-torture/execute/ieee/920810-1.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/920810-1.c execution, -g
+PASS: gcc.c-torture/execute/ieee/930529-1.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/930529-1.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/980619-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/980619-1.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/acc1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/acc1.c execution, -g
+PASS: gcc.c-torture/execute/ieee/acc2.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/acc2.c execution, -g
+PASS: gcc.c-torture/execute/ieee/compare-fp-2.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/compare-fp-2.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/compare-fp-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/compare-fp-3.c execution, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-1.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-1.c execution, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-2.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-2.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/fp-cmp-3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/fp-cmp-3.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/fp-cmp-4.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/fp-cmp-4.c execution, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-4e.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-4e.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/fp-cmp-4f.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/fp-cmp-4f.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/fp-cmp-4l.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/fp-cmp-4l.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/fp-cmp-5.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/fp-cmp-5.c execution, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-6.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-6.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/fp-cmp-8.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/fp-cmp-8.c execution, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-8e.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/fp-cmp-8e.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/fp-cmp-8f.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/fp-cmp-8f.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/fp-cmp-8l.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/fp-cmp-8l.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/hugeval.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/hugeval.c execution, -g
+PASS: gcc.c-torture/execute/ieee/minuszero.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/minuszero.c execution, -g
+PASS: gcc.c-torture/execute/ieee/mul-subnormal-single-1.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/mul-subnormal-single-1.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/mzero2.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/mzero2.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/mzero3.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/mzero3.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/mzero4.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/mzero4.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/mzero5.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/mzero5.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/rbug.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/rbug.c execution, -g
+FAIL: gcc.c-torture/execute/ieee/unsafe-fp-assoc-1.c compilation, -g
+UNRESOLVED: gcc.c-torture/execute/ieee/unsafe-fp-assoc-1.c execution, -g
+PASS: gcc.c-torture/execute/ieee/unsafe-fp-assoc.c compilation, -g
+PASS: gcc.c-torture/execute/ieee/unsafe-fp-assoc.c execution, -g
+Running ./gcc.c-torture/unsorted/unsorted.exp ...
+FAIL: gcc.c-torture/unsorted/20081002_wn.c, -g 
+PASS: gcc.c-torture/unsorted/86.c, -g 
+FAIL: gcc.c-torture/unsorted/BUG1.c, -g 
+FAIL: gcc.c-torture/unsorted/BUG11.c, -g 
+FAIL: gcc.c-torture/unsorted/BUG12.c, -g 
+PASS: gcc.c-torture/unsorted/BUG13.c, -g 
+PASS: gcc.c-torture/unsorted/BUG16.c, -g 
+PASS: gcc.c-torture/unsorted/BUG17.c, -g 
+FAIL: gcc.c-torture/unsorted/BUG18.c, -g 
+PASS: gcc.c-torture/unsorted/BUG2.c, -g 
+PASS: gcc.c-torture/unsorted/BUG21.c, -g 
+PASS: gcc.c-torture/unsorted/BUG22.c, -g 
+PASS: gcc.c-torture/unsorted/BUG23.c, -g 
+PASS: gcc.c-torture/unsorted/BUG24.c, -g 
+PASS: gcc.c-torture/unsorted/BUG3.c, -g 
+PASS: gcc.c-torture/unsorted/BUG4.c, -g 
+PASS: gcc.c-torture/unsorted/BUG5.c, -g 
+PASS: gcc.c-torture/unsorted/BUG6.c, -g 
+PASS: gcc.c-torture/unsorted/DFcmp.c, -g 
+PASS: gcc.c-torture/unsorted/HIcmp.c, -g 
+PASS: gcc.c-torture/unsorted/HIset.c, -g 
+PASS: gcc.c-torture/unsorted/PYRBUG.c, -g 
+PASS: gcc.c-torture/unsorted/QIcmp.c, -g 
+PASS: gcc.c-torture/unsorted/QIset.c, -g 
+PASS: gcc.c-torture/unsorted/SFset.c, -g 
+PASS: gcc.c-torture/unsorted/SIcmp.c, -g 
+PASS: gcc.c-torture/unsorted/SIset.c, -g 
+PASS: gcc.c-torture/unsorted/UHIcmp.c, -g 
+PASS: gcc.c-torture/unsorted/UQIcmp.c, -g 
+PASS: gcc.c-torture/unsorted/USIcmp.c, -g 
+PASS: gcc.c-torture/unsorted/a.c, -g 
+PASS: gcc.c-torture/unsorted/a1.c, -g 
+PASS: gcc.c-torture/unsorted/a3.c, -g 
+PASS: gcc.c-torture/unsorted/aa.c, -g 
+PASS: gcc.c-torture/unsorted/aaa.c, -g 
+PASS: gcc.c-torture/unsorted/abs.c, -g 
+FAIL: gcc.c-torture/unsorted/ac.c, -g 
+PASS: gcc.c-torture/unsorted/acc.c, -g 
+PASS: gcc.c-torture/unsorted/add.c, -g 
+PASS: gcc.c-torture/unsorted/add386.c, -g 
+PASS: gcc.c-torture/unsorted/addcc.c, -g 
+PASS: gcc.c-torture/unsorted/andm.c, -g 
+PASS: gcc.c-torture/unsorted/andmem.c, -g 
+PASS: gcc.c-torture/unsorted/andn.c, -g 
+PASS: gcc.c-torture/unsorted/andok.c, -g 
+PASS: gcc.c-torture/unsorted/andsi.c, -g 
+PASS: gcc.c-torture/unsorted/andsparc.c, -g 
+PASS: gcc.c-torture/unsorted/aos.c, -g 
+PASS: gcc.c-torture/unsorted/as.c, -g 
+FAIL: gcc.c-torture/unsorted/ase.c, -g 
+PASS: gcc.c-torture/unsorted/b.c, -g 
+FAIL: gcc.c-torture/unsorted/b1.c, -g 
+PASS: gcc.c-torture/unsorted/b2.c, -g 
+PASS: gcc.c-torture/unsorted/b3.c, -g 
+PASS: gcc.c-torture/unsorted/b88.c, -g 
+PASS: gcc.c-torture/unsorted/bad.c, -g 
+PASS: gcc.c-torture/unsorted/band.c, -g 
+PASS: gcc.c-torture/unsorted/bb0.c, -g 
+PASS: gcc.c-torture/unsorted/bb1.c, -g 
+FAIL: gcc.c-torture/unsorted/bbb.c, -g 
+PASS: gcc.c-torture/unsorted/bc.c, -g 
+PASS: gcc.c-torture/unsorted/bcopy.c, -g 
+PASS: gcc.c-torture/unsorted/bf.c, -g 
+PASS: gcc.c-torture/unsorted/bfins.c, -g 
+PASS: gcc.c-torture/unsorted/bfx.c, -g 
+PASS: gcc.c-torture/unsorted/bge.c, -g 
+PASS: gcc.c-torture/unsorted/bit.c, -g 
+PASS: gcc.c-torture/unsorted/bitf.c, -g 
+PASS: gcc.c-torture/unsorted/bitw.c, -g 
+PASS: gcc.c-torture/unsorted/blk.c, -g 
+PASS: gcc.c-torture/unsorted/bt.c, -g 
+PASS: gcc.c-torture/unsorted/bt386.c, -g 
+PASS: gcc.c-torture/unsorted/bug.c, -g 
+PASS: gcc.c-torture/unsorted/bugc.c, -g 
+PASS: gcc.c-torture/unsorted/buns.c, -g 
+PASS: gcc.c-torture/unsorted/bx.c, -g 
+FAIL: gcc.c-torture/unsorted/c.c, -g 
+PASS: gcc.c-torture/unsorted/c1.c, -g 
+PASS: gcc.c-torture/unsorted/c2.c, -g 
+PASS: gcc.c-torture/unsorted/call.c, -g 
+PASS: gcc.c-torture/unsorted/call386.c, -g 
+PASS: gcc.c-torture/unsorted/callind.c, -g 
+FAIL: gcc.c-torture/unsorted/cc.c, -g 
+PASS: gcc.c-torture/unsorted/charmtst.c, -g 
+PASS: gcc.c-torture/unsorted/cmb.c, -g 
+PASS: gcc.c-torture/unsorted/cmp.c, -g 
+PASS: gcc.c-torture/unsorted/cmphi.c, -g 
+PASS: gcc.c-torture/unsorted/cmpsi386.c, -g 
+PASS: gcc.c-torture/unsorted/cmul.c, -g 
+PASS: gcc.c-torture/unsorted/cn1.c, -g 
+PASS: gcc.c-torture/unsorted/comb.c, -g 
+PASS: gcc.c-torture/unsorted/const.c, -g 
+PASS: gcc.c-torture/unsorted/conv.c, -g 
+PASS: gcc.c-torture/unsorted/conv_tst.c, -g 
+PASS: gcc.c-torture/unsorted/cp.c, -g 
+PASS: gcc.c-torture/unsorted/csebug.c, -g 
+PASS: gcc.c-torture/unsorted/cvt.c, -g 
+FAIL: gcc.c-torture/unsorted/d.c, -g 
+PASS: gcc.c-torture/unsorted/dbl_parm.c, -g 
+PASS: gcc.c-torture/unsorted/dblbug.c, -g 
+PASS: gcc.c-torture/unsorted/ddd.c, -g 
+PASS: gcc.c-torture/unsorted/dead.c, -g 
+PASS: gcc.c-torture/unsorted/delay.c, -g 
+FAIL: gcc.c-torture/unsorted/di.c, -g 
+FAIL: gcc.c-torture/unsorted/dic.c, -g 
+PASS: gcc.c-torture/unsorted/dilayout.c, -g 
+PASS: gcc.c-torture/unsorted/dimove.c, -g 
+FAIL: gcc.c-torture/unsorted/dimul.c, -g 
+PASS: gcc.c-torture/unsorted/div.c, -g 
+PASS: gcc.c-torture/unsorted/divdf.c, -g 
+PASS: gcc.c-torture/unsorted/dm.c, -g 
+PASS: gcc.c-torture/unsorted/dshift.c, -g 
+PASS: gcc.c-torture/unsorted/e.c, -g 
+PASS: gcc.c-torture/unsorted/ext.c, -g 
+PASS: gcc.c-torture/unsorted/f1.c, -g 
+PASS: gcc.c-torture/unsorted/f2.c, -g 
+PASS: gcc.c-torture/unsorted/fdmul.c, -g 
+PASS: gcc.c-torture/unsorted/flo.c, -g 
+PASS: gcc.c-torture/unsorted/float.c, -g 
+PASS: gcc.c-torture/unsorted/flt_const.c, -g 
+PASS: gcc.c-torture/unsorted/fnul.c, -g 
+PASS: gcc.c-torture/unsorted/foo.c, -g 
+PASS: gcc.c-torture/unsorted/forgetcc.c, -g 
+PASS: gcc.c-torture/unsorted/fq.c, -g 
+FAIL: gcc.c-torture/unsorted/g.c, -g 
+PASS: gcc.c-torture/unsorted/gen_tst.c, -g 
+PASS: gcc.c-torture/unsorted/glob.c, -g 
+PASS: gcc.c-torture/unsorted/gronk.c, -g 
+PASS: gcc.c-torture/unsorted/hi.c, -g 
+PASS: gcc.c-torture/unsorted/hibug.c, -g 
+PASS: gcc.c-torture/unsorted/i++.c, -g 
+PASS: gcc.c-torture/unsorted/i.c, -g 
+PASS: gcc.c-torture/unsorted/ic.c, -g 
+PASS: gcc.c-torture/unsorted/icmp.c, -g 
+PASS: gcc.c-torture/unsorted/ifreg.c, -g 
+PASS: gcc.c-torture/unsorted/imm.c, -g 
+PASS: gcc.c-torture/unsorted/isinf.c, -g 
+PASS: gcc.c-torture/unsorted/jmp.c, -g 
+PASS: gcc.c-torture/unsorted/jumptab.c, -g 
+PASS: gcc.c-torture/unsorted/l.c, -g 
+PASS: gcc.c-torture/unsorted/layout.c, -g 
+FAIL: gcc.c-torture/unsorted/lbug.c, -g 
+FAIL: gcc.c-torture/unsorted/ll1.c, -g 
+PASS: gcc.c-torture/unsorted/llbug.c, -g 
+PASS: gcc.c-torture/unsorted/lll.c, -g 
+PASS: gcc.c-torture/unsorted/load8.c, -g 
+PASS: gcc.c-torture/unsorted/loadhicc.c, -g 
+PASS: gcc.c-torture/unsorted/log2.c, -g 
+PASS: gcc.c-torture/unsorted/logic.c, -g 
+PASS: gcc.c-torture/unsorted/loop-1.c, -g 
+PASS: gcc.c-torture/unsorted/loop386.c, -g 
+PASS: gcc.c-torture/unsorted/lop.c, -g 
+PASS: gcc.c-torture/unsorted/m1.c, -g 
+PASS: gcc.c-torture/unsorted/m2.c, -g 
+PASS: gcc.c-torture/unsorted/m5.c, -g 
+PASS: gcc.c-torture/unsorted/m68.c, -g 
+PASS: gcc.c-torture/unsorted/mbyte.c, -g 
+PASS: gcc.c-torture/unsorted/mchar.c, -g 
+PASS: gcc.c-torture/unsorted/mcmp.c, -g 
+PASS: gcc.c-torture/unsorted/mdouble.c, -g 
+PASS: gcc.c-torture/unsorted/memtst.c, -g 
+PASS: gcc.c-torture/unsorted/miscomp.c, -g 
+PASS: gcc.c-torture/unsorted/mm.c, -g 
+PASS: gcc.c-torture/unsorted/mod.c, -g 
+PASS: gcc.c-torture/unsorted/modcc.c, -g 
+PASS: gcc.c-torture/unsorted/move.c, -g 
+PASS: gcc.c-torture/unsorted/move_qhi.c, -g 
+PASS: gcc.c-torture/unsorted/mregtst.c, -g 
+PASS: gcc.c-torture/unsorted/msp.c, -g 
+PASS: gcc.c-torture/unsorted/mtst.c, -g 
+PASS: gcc.c-torture/unsorted/mu.c, -g 
+PASS: gcc.c-torture/unsorted/mul.c, -g 
+PASS: gcc.c-torture/unsorted/mword.c, -g 
+PASS: gcc.c-torture/unsorted/mword1.c, -g 
+PASS: gcc.c-torture/unsorted/n.c, -g 
+FAIL: gcc.c-torture/unsorted/n1.c, -g 
+PASS: gcc.c-torture/unsorted/nand.c, -g 
+PASS: gcc.c-torture/unsorted/neg.c, -g 
+PASS: gcc.c-torture/unsorted/o.c, -g 
+PASS: gcc.c-torture/unsorted/omit.c, -g 
+FAIL: gcc.c-torture/unsorted/opout.c, -g 
+PASS: gcc.c-torture/unsorted/opt.c, -g 
+PASS: gcc.c-torture/unsorted/or.c, -g 
+PASS: gcc.c-torture/unsorted/or386.c, -g 
+PASS: gcc.c-torture/unsorted/p.c, -g 
+PASS: gcc.c-torture/unsorted/parms.c, -g 
+PASS: gcc.c-torture/unsorted/pmt.c, -g 
+PASS: gcc.c-torture/unsorted/poor.c, -g 
+PASS: gcc.c-torture/unsorted/pp.c, -g 
+PASS: gcc.c-torture/unsorted/pret-arg.c, -g 
+PASS: gcc.c-torture/unsorted/pyr.c, -g 
+PASS: gcc.c-torture/unsorted/pyr2.c, -g 
+PASS: gcc.c-torture/unsorted/q.c, -g 
+PASS: gcc.c-torture/unsorted/r.c, -g 
+PASS: gcc.c-torture/unsorted/r1.c, -g 
+PASS: gcc.c-torture/unsorted/rel.c, -g 
+PASS: gcc.c-torture/unsorted/rmsc.c, -g 
+PASS: gcc.c-torture/unsorted/round.c, -g 
+FAIL: gcc.c-torture/unsorted/run.c, -g 
+PASS: gcc.c-torture/unsorted/s.c, -g 
+PASS: gcc.c-torture/unsorted/sar.c, -g 
+PASS: gcc.c-torture/unsorted/sc.c, -g 
+PASS: gcc.c-torture/unsorted/scal.c, -g 
+PASS: gcc.c-torture/unsorted/scc.c, -g 
+PASS: gcc.c-torture/unsorted/scond.c, -g 
+PASS: gcc.c-torture/unsorted/selfrec.c, -g 
+PASS: gcc.c-torture/unsorted/seq.c, -g 
+PASS: gcc.c-torture/unsorted/set386.c, -g 
+PASS: gcc.c-torture/unsorted/set88.c, -g 
+PASS: gcc.c-torture/unsorted/sh.c, -g 
+PASS: gcc.c-torture/unsorted/shand.c, -g 
+PASS: gcc.c-torture/unsorted/shft.c, -g 
+PASS: gcc.c-torture/unsorted/shift.c, -g 
+PASS: gcc.c-torture/unsorted/shloop.c, -g 
+PASS: gcc.c-torture/unsorted/shm.c, -g 
+FAIL: gcc.c-torture/unsorted/signext.c, -g 
+FAIL: gcc.c-torture/unsorted/signext2.c, -g 
+PASS: gcc.c-torture/unsorted/sim.c, -g 
+PASS: gcc.c-torture/unsorted/simple.c, -g 
+PASS: gcc.c-torture/unsorted/sne.c, -g 
+PASS: gcc.c-torture/unsorted/sound.c, -g 
+PASS: gcc.c-torture/unsorted/sparcbug.c, -g 
+PASS: gcc.c-torture/unsorted/speed.c, -g 
+PASS: gcc.c-torture/unsorted/stor.c, -g 
+PASS: gcc.c-torture/unsorted/store0.c, -g 
+PASS: gcc.c-torture/unsorted/storecc.c, -g 
+PASS: gcc.c-torture/unsorted/str.c, -g 
+PASS: gcc.c-torture/unsorted/stru.c, -g 
+PASS: gcc.c-torture/unsorted/structret.c, -g 
+PASS: gcc.c-torture/unsorted/stuct.c, -g 
+PASS: gcc.c-torture/unsorted/sub32.c, -g 
+PASS: gcc.c-torture/unsorted/subcc.c, -g 
+PASS: gcc.c-torture/unsorted/subcse.c, -g 
+PASS: gcc.c-torture/unsorted/sym.c, -g 
+PASS: gcc.c-torture/unsorted/symconst.c, -g 
+PASS: gcc.c-torture/unsorted/t.c, -g 
+PASS: gcc.c-torture/unsorted/test-flow.c, -g 
+PASS: gcc.c-torture/unsorted/test-loop.c, -g 
+PASS: gcc.c-torture/unsorted/test.c, -g 
+PASS: gcc.c-torture/unsorted/time.c, -g 
+PASS: gcc.c-torture/unsorted/tmp.c, -g 
+PASS: gcc.c-torture/unsorted/trivial.c, -g 
+PASS: gcc.c-torture/unsorted/trunc.c, -g 
+PASS: gcc.c-torture/unsorted/u.c, -g 
+FAIL: gcc.c-torture/unsorted/udconvert.c, -g 
+FAIL: gcc.c-torture/unsorted/udivmod4.c, -g 
+PASS: gcc.c-torture/unsorted/uns.c, -g 
+PASS: gcc.c-torture/unsorted/uns_tst.c, -g 
+PASS: gcc.c-torture/unsorted/v.c, -g 
+PASS: gcc.c-torture/unsorted/w.c, -g 
+PASS: gcc.c-torture/unsorted/ww.c, -g 
+PASS: gcc.c-torture/unsorted/x.c, -g 
+PASS: gcc.c-torture/unsorted/xb.c, -g 
+PASS: gcc.c-torture/unsorted/xbg.c, -g 
+PASS: gcc.c-torture/unsorted/xc.c, -g 
+PASS: gcc.c-torture/unsorted/xcsebug.c, -g 
+PASS: gcc.c-torture/unsorted/xdi.c, -g 
+PASS: gcc.c-torture/unsorted/xfoo.c, -g 
+PASS: gcc.c-torture/unsorted/xi.c, -g 
+PASS: gcc.c-torture/unsorted/xlop.c, -g 
+PASS: gcc.c-torture/unsorted/xmtst.c, -g 
+PASS: gcc.c-torture/unsorted/xneg.c, -g 
+FAIL: gcc.c-torture/unsorted/xopt.c, -g 
+PASS: gcc.c-torture/unsorted/xor.c, -g 
+PASS: gcc.c-torture/unsorted/xorn.c, -g 
+PASS: gcc.c-torture/unsorted/xp.c, -g 
+PASS: gcc.c-torture/unsorted/xpp.c, -g 
+PASS: gcc.c-torture/unsorted/xs.c, -g 
+PASS: gcc.c-torture/unsorted/xsh.c, -g 
+PASS: gcc.c-torture/unsorted/xz.c, -g 
+PASS: gcc.c-torture/unsorted/xzz.c, -g 
+Running ./gcc.dg/charset/charset.exp ...
+PASS: gcc.dg/charset/builtin2.c (test for excess errors)
+PASS: gcc.dg/charset/extern.c (test for excess errors)
+PASS: gcc.dg/charset/extern.c scan-assembler-not abcdefghijklmnopqrstuvwxyz
+PASS: gcc.dg/charset/function.c (test for excess errors)
+PASS: gcc.dg/charset/function.c scan-assembler-not "foobar"
+PASS: gcc.dg/charset/string.c (test for excess errors)
+PASS: gcc.dg/charset/string.c scan-assembler-not string foobar
+Running ./gcc.dg/compat/compat.exp ...
+PASS: gcc.dg/compat/fnptr-by-value-1 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/fnptr-by-value-1 c_compat_x_tst.o compile
+FAIL: gcc.dg/compat/fnptr-by-value-1 c_compat_y_tst.o compile
+UNRESOLVED: gcc.dg/compat/fnptr-by-value-1 c_compat_x_tst.o-c_compat_y_tst.o link 
+UNRESOLVED: gcc.dg/compat/fnptr-by-value-1 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/scalar-by-value-1 c_compat_main_tst.o compile
+FAIL: gcc.dg/compat/scalar-by-value-1 c_compat_x_tst.o compile
+FAIL: gcc.dg/compat/scalar-by-value-1 c_compat_y_tst.o compile
+UNRESOLVED: gcc.dg/compat/scalar-by-value-1 c_compat_x_tst.o-c_compat_y_tst.o link 
+UNRESOLVED: gcc.dg/compat/scalar-by-value-1 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/scalar-by-value-2 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/scalar-by-value-2 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/scalar-by-value-2 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/scalar-by-value-2 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/scalar-by-value-2 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/scalar-return-1 c_compat_main_tst.o compile
+FAIL: gcc.dg/compat/scalar-return-1 c_compat_x_tst.o compile
+FAIL: gcc.dg/compat/scalar-return-1 c_compat_y_tst.o compile
+UNRESOLVED: gcc.dg/compat/scalar-return-1 c_compat_x_tst.o-c_compat_y_tst.o link 
+UNRESOLVED: gcc.dg/compat/scalar-return-1 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/scalar-return-2 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/scalar-return-2 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/scalar-return-2 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/scalar-return-2 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/scalar-return-2 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/sdata-1 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/sdata-1 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/sdata-1 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/sdata-1 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/sdata-1 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/struct-align-1 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/struct-align-1 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/struct-align-1 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/struct-align-1 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/struct-align-1 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/struct-align-2 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/struct-align-2 c_compat_x_tst.o compile
+FAIL: gcc.dg/compat/struct-align-2 c_compat_y_tst.o compile
+UNRESOLVED: gcc.dg/compat/struct-align-2 c_compat_x_tst.o-c_compat_y_tst.o link 
+UNRESOLVED: gcc.dg/compat/struct-align-2 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/struct-by-value-10 c_compat_main_tst.o compile
+FAIL: gcc.dg/compat/struct-by-value-10 c_compat_x_tst.o compile
+FAIL: gcc.dg/compat/struct-by-value-10 c_compat_y_tst.o compile
+UNRESOLVED: gcc.dg/compat/struct-by-value-10 c_compat_x_tst.o-c_compat_y_tst.o link 
+UNRESOLVED: gcc.dg/compat/struct-by-value-10 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/struct-by-value-11 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-11 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-11 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/struct-by-value-11 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/struct-by-value-11 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/struct-by-value-12 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-12 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-12 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/struct-by-value-12 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/struct-by-value-12 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/struct-by-value-13 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-13 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-13 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/struct-by-value-13 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/struct-by-value-13 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/struct-by-value-14 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-14 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-14 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/struct-by-value-14 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/struct-by-value-14 c_compat_x_tst.o-c_compat_y_tst.o execute 
+PASS: gcc.dg/compat/struct-by-value-15 c_compat_main_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-15 c_compat_x_tst.o compile
+PASS: gcc.dg/compat/struct-by-value-15 c_compat_y_tst.o compile
+FAIL: gcc.dg/compat/struct-by-value-15 c_compat_x_tst.o-c_compat_y_tst.o link
+UNRESOLVED: gcc.dg/compat/struct-by-value-15 c_compat_x_tst.o-c_compat_y_tst.o execute 
+ERROR: tcl error sourcing ./gcc.dg/compat/compat.exp.
+ERROR: couldn't open "./gcc.dg/compat/struct-by-value-16_x.c": no such file or directory
+    while executing
+"open $file r"
+    (procedure "grep" line 19)
+    invoked from within
+"grep $prog "{\[ \t\]\+dg-\[-a-z\]\+\[ \t\]\+.*\[ \t\]\+}" line"
+    (procedure "dg-get-options" line 4)
+    invoked from within
+"dg-get-options $src"
+    (procedure "compat-get-options" line 12)
+    invoked from within
+"compat-get-options $src2"
+    (procedure "compat-execute" line 34)
+    invoked from within
+"compat-execute $src $sid $use_alt"
+    ("foreach" body line 7)
+    invoked from within
+"foreach src [lsort [find $srcdir/$subdir *_main.c]] {
+    # If we're only testing specific files and this isn't one of them, skip it.
+    if ![runtest..."
+    (file "./gcc.dg/compat/compat.exp" line 95)
+    invoked from within
+"source ./gcc.dg/compat/compat.exp"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel #0 source ./gcc.dg/compat/compat.exp"
+    invoked from within
+"catch "uplevel #0 source $test_file_name""
+Running ./gcc.dg/dg.exp ...
+PASS: gcc.dg/20000111-1.c (test for excess errors)
+PASS: gcc.dg/20000629-1.c (test for excess errors)
+PASS: gcc.dg/20001009-1.c (test for excess errors)
+PASS: gcc.dg/20001012-1.c (test for excess errors)
+FAIL: gcc.dg/20001012-2.c (test for excess errors)
+UNRESOLVED: gcc.dg/20001012-2.c compilation failed to produce executable
+PASS: gcc.dg/20001023-1.c (test for excess errors)
+PASS: gcc.dg/20001023-1.c execution test
+PASS: gcc.dg/20001101-1.c (test for excess errors)
+PASS: gcc.dg/20001108-1.c (test for excess errors)
+PASS: gcc.dg/20001108-1.c execution test
+PASS: gcc.dg/20001117-1.c (test for excess errors)
+PASS: gcc.dg/20001117-1.c execution test
+PASS: gcc.dg/20001201-1.c (test for excess errors)
+PASS: gcc.dg/20001228-1.c (test for excess errors)
+PASS: gcc.dg/20010822-1.c (test for excess errors)
+PASS: gcc.dg/20010822-1.c execution test
+PASS: gcc.dg/20010912-1.c PIC unsupported (test for bogus messages, line )
+FAIL: gcc.dg/20010912-1.c (test for excess errors)
+UNRESOLVED: gcc.dg/20010912-1.c compilation failed to produce executable
+FAIL: gcc.dg/20011113-1.c (test for excess errors)
+PASS: gcc.dg/20020116-2.c (test for excess errors)
+PASS: gcc.dg/20020201-1.c (test for excess errors)
+PASS: gcc.dg/20020201-1.c execution test
+PASS: gcc.dg/20020210-1.c (test for excess errors)
+PASS: gcc.dg/20020210-1.c execution test
+FAIL: gcc.dg/20020220-1.c (test for excess errors)
+PASS: gcc.dg/20020312-1.c (test for excess errors)
+PASS: gcc.dg/20020411-1.c (test for excess errors)
+FAIL: gcc.dg/20020416-1.c (test for excess errors)
+FAIL: gcc.dg/20020418-1.c (test for excess errors)
+PASS: gcc.dg/20020418-2.c (test for excess errors)
+PASS: gcc.dg/20020503-1.c (test for excess errors)
+FAIL: gcc.dg/20020525-1.c (test for excess errors)
+UNRESOLVED: gcc.dg/20020525-1.c compilation failed to produce executable
+FAIL: gcc.dg/20020607-2.c (test for excess errors)
+UNRESOLVED: gcc.dg/20020607-2.c compilation failed to produce executable
+PASS: gcc.dg/20020620-1.c (test for excess errors)
+PASS: gcc.dg/20020926-1.c (test for excess errors)
+PASS: gcc.dg/20021116-1.c (test for excess errors)
+PASS: gcc.dg/20030107-1.c (test for excess errors)
+PASS: gcc.dg/20030204-1.c (test for excess errors)
+PASS: gcc.dg/20030213-1.c PIC unsupported (test for bogus messages, line )
+PASS: gcc.dg/20030213-1.c (test for excess errors)
+PASS: gcc.dg/20030309-1.c (test for excess errors)
+PASS: gcc.dg/20030321-1.c (test for excess errors)
+PASS: gcc.dg/20030323-1.c (test for excess errors)
+PASS: gcc.dg/20030323-1.c execution test
+PASS: gcc.dg/20030324-1.c (test for excess errors)
+PASS: gcc.dg/20030324-1.c execution test
+PASS: gcc.dg/20030414-2.c (test for excess errors)
+PASS: gcc.dg/20030414-2.c execution test
+PASS: gcc.dg/20030627-1.c (test for excess errors)
+PASS: gcc.dg/20030707-1.c (test for excess errors)
+PASS: gcc.dg/20030717-1.c (test for excess errors)
+PASS: gcc.dg/20030717-1.c execution test
+PASS: gcc.dg/20030721-1.c (test for excess errors)
+PASS: gcc.dg/20030815-1.c (test for excess errors)
+PASS: gcc.dg/20030820-1.c (test for excess errors)
+PASS: gcc.dg/20030826-1.c (test for excess errors)
+PASS: gcc.dg/20030826-1.c execution test
+PASS: gcc.dg/20030909-1.c (test for excess errors)
+PASS: gcc.dg/20031108-1.c (test for excess errors)
+PASS: gcc.dg/20031201-1.c (test for excess errors)
+FAIL: gcc.dg/20031201-2.c (test for excess errors)
+PASS: gcc.dg/20031216-1.c (test for excess errors)
+PASS: gcc.dg/20031216-1.c execution test
+PASS: gcc.dg/20031218-1.c (test for excess errors)
+PASS: gcc.dg/20040123-1.c (test for excess errors)
+PASS: gcc.dg/20040123-1.c scan-assembler abort
+PASS: gcc.dg/20040127-1.c (test for excess errors)
+PASS: gcc.dg/20040217-1.c (test for excess errors)
+PASS: gcc.dg/20040219-1.c (test for excess errors)
+PASS: gcc.dg/20040219-1.c execution test
+PASS: gcc.dg/20040305-1.c (test for excess errors)
+PASS: gcc.dg/20040306-1.c (test for excess errors)
+PASS: gcc.dg/20040309-1.c (test for excess errors)
+PASS: gcc.dg/20040309-1.c execution test
+PASS: gcc.dg/20040310-1.c (test for excess errors)
+PASS: gcc.dg/20040311-2.c (test for excess errors)
+PASS: gcc.dg/20040409-1.c (test for excess errors)
+PASS: gcc.dg/20040622-2.c (test for excess errors)
+PASS: gcc.dg/20040625-1.c (test for excess errors)
+PASS: gcc.dg/20040625-1.c execution test
+FAIL: gcc.dg/20040916-1.c (test for excess errors)
+PASS: gcc.dg/20041106-1.c (test for excess errors)
+PASS: gcc.dg/20041106-1.c execution test
+FAIL: gcc.dg/20050105-2.c (test for excess errors)
+FAIL: gcc.dg/20050111-1.c (test for excess errors)
+FAIL: gcc.dg/20050111-2.c (test for excess errors)
+PASS: gcc.dg/20050321-2.c PIC unsupported (test for bogus messages, line )
+PASS: gcc.dg/20050321-2.c (test for excess errors)
+FAIL: gcc.dg/20050409-1.c (test for excess errors)
+PASS: gcc.dg/20050517-1.c (test for excess errors)
+PASS: gcc.dg/20050524-1.c (test for excess errors)
+FAIL: gcc.dg/20050603-2.c (test for excess errors)
+UNRESOLVED: gcc.dg/20050603-2.c compilation failed to produce executable
+PASS: gcc.dg/20050702-1.c (test for excess errors)
+PASS: gcc.dg/20050922-1.c (test for excess errors)
+PASS: gcc.dg/20050922-1.c execution test
+PASS: gcc.dg/20060515-1.c (test for excess errors)
+PASS: gcc.dg/20060515-1.c execution test
+PASS: gcc.dg/951130-1.c (test for excess errors)
+PASS: gcc.dg/980312-1.c (test for excess errors)
+FAIL: gcc.dg/980313-1.c (test for excess errors)
+PASS: gcc.dg/980502-1.c (test for excess errors)
+PASS: gcc.dg/980523-1.c (test for excess errors)
+PASS: gcc.dg/980526-1.c (test for excess errors)
+PASS: gcc.dg/Wconversion.c  (test for bogus messages, line 16)
+PASS: gcc.dg/Wconversion.c  (test for bogus messages, line 17)
+PASS: gcc.dg/Wconversion.c (test for excess errors)
+PASS: gcc.dg/Wparentheses-10.c (test for excess errors)
+PASS: gcc.dg/Wpointer-sign.c (test for excess errors)
+PASS: gcc.dg/Wreturn-type2.c no return warning (test for bogus messages, line 7)
+PASS: gcc.dg/Wreturn-type2.c no return warning (test for bogus messages, line 8)
+PASS: gcc.dg/Wreturn-type2.c no return warning (test for bogus messages, line 9)
+PASS: gcc.dg/Wreturn-type2.c (test for excess errors)
+PASS: gcc.dg/Wshadow-2.c  (test for bogus messages, line 9)
+PASS: gcc.dg/Wshadow-2.c (test for excess errors)
+PASS: gcc.dg/align-1.c (test for excess errors)
+FAIL: gcc.dg/align-1.c execution test
+PASS: gcc.dg/attr-weakref-1a.c (test for excess errors)
+FAIL: gcc.dg/bf-ms-attrib.c (test for excess errors)
+UNRESOLVED: gcc.dg/bf-ms-attrib.c compilation failed to produce executable
+FAIL: gcc.dg/bf-ms-layout.c (test for excess errors)
+UNRESOLVED: gcc.dg/bf-ms-layout.c compilation failed to produce executable
+PASS: gcc.dg/bitfld-4.c (test for excess errors)
+PASS: gcc.dg/bitfld-4.c execution test
+PASS: gcc.dg/builtins-13.c (test for excess errors)
+PASS: gcc.dg/builtins-15.c (test for excess errors)
+FAIL: gcc.dg/builtins-2.c (test for excess errors)
+FAIL: gcc.dg/builtins-21.c (test for excess errors)
+PASS: gcc.dg/builtins-22.c (test for excess errors)
+PASS: gcc.dg/builtins-23.c (test for excess errors)
+FAIL: gcc.dg/builtins-24.c (test for excess errors)
+UNRESOLVED: gcc.dg/builtins-24.c compilation failed to produce executable
+FAIL: gcc.dg/builtins-33.c (test for excess errors)
+FAIL: gcc.dg/builtins-34.c (test for excess errors)
+FAIL: gcc.dg/builtins-36.c (test for excess errors)
+FAIL: gcc.dg/builtins-37.c (test for excess errors)
+FAIL: gcc.dg/builtins-38.c (test for excess errors)
+FAIL: gcc.dg/builtins-39.c (test for excess errors)
+FAIL: gcc.dg/builtins-40.c (test for excess errors)
+FAIL: gcc.dg/builtins-46.c (test for excess errors)
+FAIL: gcc.dg/builtins-48.c (test for excess errors)
+UNRESOLVED: gcc.dg/builtins-48.c compilation failed to produce executable
+FAIL: gcc.dg/builtins-49.c (test for excess errors)
+UNRESOLVED: gcc.dg/builtins-49.c compilation failed to produce executable
+FAIL: gcc.dg/builtins-50.c (test for excess errors)
+UNRESOLVED: gcc.dg/builtins-50.c compilation failed to produce executable
+FAIL: gcc.dg/builtins-51.c (test for excess errors)
+UNRESOLVED: gcc.dg/builtins-51.c compilation failed to produce executable
+FAIL: gcc.dg/builtins-53.c (test for excess errors)
+FAIL: gcc.dg/builtins-6.c (test for excess errors)
+UNRESOLVED: gcc.dg/builtins-6.c compilation failed to produce executable
+FAIL: gcc.dg/builtins-9.c (test for excess errors)
+PASS: gcc.dg/c90-float-1.c (test for excess errors)
+PASS: gcc.dg/c90-impl-int-1.c (test for excess errors)
+PASS: gcc.dg/c90-impl-int-2.c (test for excess errors)
+PASS: gcc.dg/c99-array-lval-7.c (test for excess errors)
+PASS: gcc.dg/c99-dupqual-1.c  (test for bogus messages, line 5)
+PASS: gcc.dg/c99-dupqual-1.c  (test for bogus messages, line 6)
+PASS: gcc.dg/c99-dupqual-1.c  (test for bogus messages, line 7)
+PASS: gcc.dg/c99-dupqual-1.c  (test for bogus messages, line 10)
+PASS: gcc.dg/c99-dupqual-1.c  (test for bogus messages, line 11)
+PASS: gcc.dg/c99-dupqual-1.c  (test for bogus messages, line 12)
+PASS: gcc.dg/c99-dupqual-1.c (test for excess errors)
+PASS: gcc.dg/c99-float-1.c (test for excess errors)
+FAIL: gcc.dg/c99-fordecl-1.c (test for excess errors)
+UNRESOLVED: gcc.dg/c99-fordecl-1.c compilation failed to produce executable
+PASS: gcc.dg/c99-hexfloat-1.c bogus C99 hex float error (test for bogus messages, line 6)
+PASS: gcc.dg/c99-hexfloat-1.c (test for excess errors)
+PASS: gcc.dg/c99-idem-qual-1.c duplicate type qualifier error (test for bogus messages, line 7)
+PASS: gcc.dg/c99-idem-qual-1.c (test for excess errors)
+PASS: gcc.dg/c99-idem-qual-2.c duplicate type qualifier error (test for bogus messages, line 6)
+PASS: gcc.dg/c99-idem-qual-2.c (test for excess errors)
+PASS: gcc.dg/c99-idem-qual-3.c duplicate type qualifier warning (test for bogus messages, line 8)
+PASS: gcc.dg/c99-idem-qual-3.c duplicate type qualifier warning (test for bogus messages, line 9)
+PASS: gcc.dg/c99-idem-qual-3.c (test for excess errors)
+PASS: gcc.dg/c99-longlong-1.c bogus long long error (test for bogus messages, line 6)
+PASS: gcc.dg/c99-longlong-1.c (test for excess errors)
+FAIL: gcc.dg/c99-math-double-1.c (test for excess errors)
+FAIL: gcc.dg/c99-math-float-1.c (test for excess errors)
+FAIL: gcc.dg/c99-math-long-double-1.c (test for excess errors)
+PASS: gcc.dg/char-compare.c (test for excess errors)
+PASS: gcc.dg/char-compare.c execution test
+FAIL: gcc.dg/cleanup-3.c (test for excess errors)
+UNRESOLVED: gcc.dg/cleanup-3.c compilation failed to produce executable
+PASS: gcc.dg/compare3.c case 1 (test for bogus messages, line 14)
+PASS: gcc.dg/compare3.c case 2 (test for bogus messages, line 15)
+PASS: gcc.dg/compare3.c case 3 (test for bogus messages, line 16)
+PASS: gcc.dg/compare3.c case 4 (test for bogus messages, line 17)
+PASS: gcc.dg/compare3.c case 5 (test for bogus messages, line 19)
+PASS: gcc.dg/compare3.c case 6 (test for bogus messages, line 20)
+PASS: gcc.dg/compare3.c case 7 (test for bogus messages, line 21)
+PASS: gcc.dg/compare3.c case 8 (test for bogus messages, line 22)
+PASS: gcc.dg/compare3.c case 9 (test for bogus messages, line 24)
+PASS: gcc.dg/compare3.c case 10 (test for bogus messages, line 25)
+PASS: gcc.dg/compare3.c case 11 (test for bogus messages, line 26)
+PASS: gcc.dg/compare3.c case 12 (test for bogus messages, line 27)
+PASS: gcc.dg/compare3.c case 13 (test for bogus messages, line 29)
+PASS: gcc.dg/compare3.c case 14 (test for bogus messages, line 30)
+PASS: gcc.dg/compare3.c case 15 (test for bogus messages, line 31)
+PASS: gcc.dg/compare3.c case 16 (test for bogus messages, line 32)
+PASS: gcc.dg/compare3.c case 17 (test for bogus messages, line 34)
+PASS: gcc.dg/compare3.c case 18 (test for bogus messages, line 35)
+PASS: gcc.dg/compare3.c case 19 (test for bogus messages, line 36)
+PASS: gcc.dg/compare3.c case 20 (test for bogus messages, line 37)
+PASS: gcc.dg/compare3.c case 21 (test for bogus messages, line 39)
+PASS: gcc.dg/compare3.c case 22 (test for bogus messages, line 40)
+PASS: gcc.dg/compare3.c case 23 (test for bogus messages, line 41)
+PASS: gcc.dg/compare3.c case 24 (test for bogus messages, line 42)
+PASS: gcc.dg/compare3.c case 25 (test for bogus messages, line 44)
+PASS: gcc.dg/compare3.c case 26 (test for bogus messages, line 45)
+PASS: gcc.dg/compare3.c case 27 (test for bogus messages, line 46)
+PASS: gcc.dg/compare3.c case 28 (test for bogus messages, line 47)
+PASS: gcc.dg/compare3.c case 29 (test for bogus messages, line 49)
+PASS: gcc.dg/compare3.c case 30 (test for bogus messages, line 50)
+PASS: gcc.dg/compare3.c case 31 (test for bogus messages, line 51)
+PASS: gcc.dg/compare3.c case 32 (test for bogus messages, line 52)
+PASS: gcc.dg/compare3.c case 33 (test for bogus messages, line 54)
+PASS: gcc.dg/compare3.c case 34 (test for bogus messages, line 55)
+PASS: gcc.dg/compare3.c case 35 (test for bogus messages, line 56)
+PASS: gcc.dg/compare3.c case 36 (test for bogus messages, line 57)
+PASS: gcc.dg/compare3.c (test for excess errors)
+PASS: gcc.dg/compare7.c  (test for bogus messages, line 9)
+PASS: gcc.dg/compare7.c (test for excess errors)
+FAIL: gcc.dg/const-compare.c (test for excess errors)
+PASS: gcc.dg/const-elim-2.c (test for excess errors)
+PASS: gcc.dg/conv-1.c (test for excess errors)
+PASS: gcc.dg/cris-peep2-andu1.c (test for excess errors)
+PASS: gcc.dg/cris-peep2-andu2.c (test for excess errors)
+PASS: gcc.dg/cris-peep2-xsrand.c (test for excess errors)
+PASS: gcc.dg/cris-peep2-xsrand2.c (test for excess errors)
+FAIL: gcc.dg/decl-5.c (test for excess errors)
+PASS: gcc.dg/decl-6.c (test for excess errors)
+PASS: gcc.dg/decl-global-ext.c (test for excess errors)
+PASS: gcc.dg/doloop-2.c (test for excess errors)
+PASS: gcc.dg/doloop-2.c execution test
+PASS: gcc.dg/dremf-type-compat-1.c (test for excess errors)
+FAIL: gcc.dg/duff-4.c (test for excess errors)
+UNRESOLVED: gcc.dg/duff-4.c compilation failed to produce executable
+PASS: gcc.dg/empty-source-1.c (test for excess errors)
+PASS: gcc.dg/extra-semi-1.c (test for excess errors)
+FAIL: gcc.dg/fastmath-1.c (test for excess errors)
+UNRESOLVED: gcc.dg/fastmath-1.c compilation failed to produce executable
+PASS: gcc.dg/fixuns-trunc-1.c (test for excess errors)
+PASS: gcc.dg/fixuns-trunc-1.c execution test
+FAIL: gcc.dg/fnegate-1.c (test for excess errors)
+UNRESOLVED: gcc.dg/fnegate-1.c compilation failed to produce executable
+PASS: gcc.dg/h8300-bss-align-1.c (test for excess errors)
+PASS: gcc.dg/h8300-bss-align-1.c scan-assembler .align
+PASS: gcc.dg/h8300-ice2.c (test for excess errors)
+PASS: gcc.dg/h8300-stack-1.c (test for excess errors)
+FAIL: gcc.dg/ifcvt-fabs-1.c (test for excess errors)
+UNRESOLVED: gcc.dg/ifcvt-fabs-1.c compilation failed to produce executable
+PASS: gcc.dg/iftrap-1.c (test for excess errors)
+PASS: gcc.dg/iftrap-2.c (test for excess errors)
+PASS: gcc.dg/inline-2.c (test for excess errors)
+PASS: gcc.dg/inline-2.c scan-assembler-not PLT
+PASS: gcc.dg/inline-4.c (test for excess errors)
+FAIL: gcc.dg/inline-4.c scan-assembler-not big_static_inline
+PASS: gcc.dg/inline-7.c (test for excess errors)
+PASS: gcc.dg/inline-mcpy.c (test for excess errors)
+PASS: gcc.dg/inline-mcpy.c scan-assembler-not memcpy
+PASS: gcc.dg/intermod-1.c (test for excess errors)
+PASS: gcc.dg/intermod-1.c scan-assembler-not foo[1-9]\\.[0-9]
+PASS: gcc.dg/lazy-ptr-test.c (test for excess errors)
+PASS: gcc.dg/local1.c (test for excess errors)
+PASS: gcc.dg/loop-1.c (test for excess errors)
+PASS: gcc.dg/loop-2.c (test for excess errors)
+PASS: gcc.dg/loop-2.c execution test
+PASS: gcc.dg/loop-4.c (test for excess errors)
+PASS: gcc.dg/loop-4.c execution test
+PASS: gcc.dg/loop-6.c (test for excess errors)
+PASS: gcc.dg/loop-6.c execution test
+PASS: gcc.dg/mmix-1.c (test for excess errors)
+PASS: gcc.dg/non-lazy-ptr-test.c (test for excess errors)
+PASS: gcc.dg/noreturn-2.c noreturn does return (test for bogus messages, line 12)
+PASS: gcc.dg/noreturn-2.c (test for excess errors)
+PASS: gcc.dg/noreturn-3.c (test for excess errors)
+PASS: gcc.dg/noreturn-5.c (test for excess errors)
+PASS: gcc.dg/null-pointer-1.c (test for excess errors)
+PASS: gcc.dg/old-style-prom-1.c (test for excess errors)
+PASS: gcc.dg/overflow-1.c (test for excess errors)
+FAIL: gcc.dg/pack-test-4.c (test for excess errors)
+UNRESOLVED: gcc.dg/pack-test-4.c compilation failed to produce executable
+PASS: gcc.dg/postincr-1.c (test for excess errors)
+PASS: gcc.dg/postincr-1.c execution test
+PASS: gcc.dg/pr10392-1.c (test for excess errors)
+PASS: gcc.dg/pr10392-1.c execution test
+PASS: gcc.dg/pr11864-1.c (test for excess errors)
+PASS: gcc.dg/pr11864-1.c execution test
+FAIL: gcc.dg/pr15825-1.c (test for excess errors)
+PASS: gcc.dg/pr17024-1.c (test for excess errors)
+PASS: gcc.dg/pr17036-1.c (test for excess errors)
+FAIL: gcc.dg/pr17581-1.c (test for excess errors)
+UNRESOLVED: gcc.dg/pr17581-1.c compilation failed to produce executable
+PASS: gcc.dg/pr18241-3.c (test for excess errors)
+PASS: gcc.dg/pr18241-3.c execution test
+PASS: gcc.dg/pr18241-4.c (test for excess errors)
+PASS: gcc.dg/pr18241-4.c execution test
+PASS: gcc.dg/pr18241-5.c (test for excess errors)
+PASS: gcc.dg/pr18241-5.c execution test
+PASS: gcc.dg/pr18520-1.c (test for excess errors)
+PASS: gcc.dg/pr18628.c (test for excess errors)
+PASS: gcc.dg/pr18928-1.c (test for excess errors)
+PASS: gcc.dg/pr20017.c (test for excess errors)
+FAIL: gcc.dg/pr20054.c (test for excess errors)
+PASS: gcc.dg/pr20100.c (test for excess errors)
+PASS: gcc.dg/pr20100.c execution test
+PASS: gcc.dg/pr20115.c (test for excess errors)
+PASS: gcc.dg/pr20115.c execution test
+PASS: gcc.dg/pr21041.c (test for excess errors)
+PASS: gcc.dg/pr21282.c (test for excess errors)
+PASS: gcc.dg/pr21858.c (test for excess errors)
+PASS: gcc.dg/pr21921.c (test for excess errors)
+PASS: gcc.dg/pr22311-1.c (test for excess errors)
+PASS: gcc.dg/pr22329.c (test for excess errors)
+PASS: gcc.dg/pr22335-1.c (test for excess errors)
+PASS: gcc.dg/pr22335-2.c (test for excess errors)
+PASS: gcc.dg/pr24101-1.i (test for excess errors)
+PASS: gcc.dg/pr24445.c (test for excess errors)
+PASS: gcc.dg/pr24620.c (test for excess errors)
+PASS: gcc.dg/pr24683.c (test for excess errors)
+PASS: gcc.dg/pr24820.c (test for excess errors)
+PASS: gcc.dg/pr25196.c (test for excess errors)
+PASS: gcc.dg/pr25196.c execution test
+PASS: gcc.dg/pr27314.c (test for excess errors)
+PASS: gcc.dg/pr27335.c (test for excess errors)
+PASS: gcc.dg/pr9365-1.c (test for excess errors)
+PASS: gcc.dg/pr9814-1.c (test for excess errors)
+PASS: gcc.dg/pr9814-1.c execution test
+PASS: gcc.dg/redecl-6.c (test for excess errors)
+FAIL: gcc.dg/redecl-9.c (test for excess errors)
+PASS: gcc.dg/return-type-2.c warning for falling off end of non-void function (test for bogus messages, line 15)
+PASS: gcc.dg/return-type-2.c warning for falling off end of non-void function (test for bogus messages, line 24)
+PASS: gcc.dg/return-type-2.c warning for falling off end of non-void function (test for bogus messages, line 33)
+PASS: gcc.dg/return-type-2.c warning for falling off end of non-void function (test for bogus messages, line 42)
+PASS: gcc.dg/return-type-2.c (test for excess errors)
+PASS: gcc.dg/sh-relax.c (test for excess errors)
+PASS: gcc.dg/sh-relax.c execution test
+FAIL: gcc.dg/sh4a-fprun.c (test for excess errors)
+UNRESOLVED: gcc.dg/sh4a-fprun.c compilation failed to produce executable
+PASS: gcc.dg/sibcall-7.c (test for excess errors)
+PASS: gcc.dg/sibcall-7.c execution test
+PASS: gcc.dg/sparc-getcontext-1.c (test for excess errors)
+PASS: gcc.dg/sparc-getcontext-1.c execution test
+FAIL: gcc.dg/spill-1.c (test for excess errors)
+FAIL: gcc.dg/struct-by-value-1.c (test for excess errors)
+PASS: gcc.dg/struct-by-value-1.c execution test
+PASS: gcc.dg/struct-by-value-2.c (test for excess errors)
+PASS: gcc.dg/struct-ret-1.c (test for excess errors)
+PASS: gcc.dg/struct-ret-1.c execution test
+PASS: gcc.dg/switch-1.c (test for excess errors)
+PASS: gcc.dg/switch-4.c (test for excess errors)
+PASS: gcc.dg/switch-8.c (test for excess errors)
+PASS: gcc.dg/trunc-1.c bogus truncation warning (test for bogus messages, line 12)
+PASS: gcc.dg/trunc-1.c (test for excess errors)
+FAIL: gcc.dg/ultrasp1.c (test for excess errors)
+PASS: gcc.dg/ultrasp10.c (test for excess errors)
+PASS: gcc.dg/ultrasp10.c execution test
+FAIL: gcc.dg/ultrasp11.c (test for excess errors)
+PASS: gcc.dg/ultrasp2.c (test for excess errors)
+FAIL: gcc.dg/ultrasp5.c (test for excess errors)
+FAIL: gcc.dg/ultrasp6.c (test for excess errors)
+PASS: gcc.dg/ultrasp7.c (test for excess errors)
+PASS: gcc.dg/ultrasp8.c (test for excess errors)
+FAIL: gcc.dg/ultrasp9.c (test for excess errors)
+UNRESOLVED: gcc.dg/ultrasp9.c compilation failed to produce executable
+PASS: gcc.dg/uninit-C.c (test for excess errors)
+PASS: gcc.dg/uninit-G.c (test for excess errors)
+PASS: gcc.dg/union-1.c (test for excess errors)
+FAIL: gcc.dg/union-2.c (test for excess errors)
+UNRESOLVED: gcc.dg/union-2.c compilation failed to produce executable
+FAIL: gcc.dg/unsigned-long-compare.c (test for excess errors)
+UNRESOLVED: gcc.dg/unsigned-long-compare.c compilation failed to produce executable
+FAIL: gcc.dg/va-arg-3.c (test for excess errors)
+FAIL: gcc.dg/variable_array1.c (test for excess errors)
+FAIL: gcc.dg/visibility-c.c (test for excess errors)
+PASS: gcc.dg/void-cast-1.c (test for excess errors)
+PASS: gcc.dg/volatile1.c (test for excess errors)
+PASS: gcc.dg/wchar_t-1.c (test for excess errors)
+PASS: gcc.dg/wint_t-1.c (test for excess errors)
+Running ./gcc.dg/format/format.exp ...
+Running ./gcc.dg/ipa/ipa.exp ...
+Running ./gcc.dg/special/mips-abi.exp ...
+Running ./gcc.dg/special/special.exp ...
+Running ./gcc.dg/torture/dg-torture.exp ...
+FAIL: gcc.dg/torture/badshift.c -g (test for excess errors)
+UNRESOLVED: gcc.dg/torture/badshift.c -g compilation failed to produce executable
+FAIL: gcc.dg/torture/builtin-convert-1.c -g (test for excess errors)
+FAIL: gcc.dg/torture/builtin-convert-2.c -g (test for excess errors)
+PASS: gcc.dg/torture/builtin-convert-3.c -g (test for excess errors)
+PASS: gcc.dg/torture/builtin-ctype-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/builtin-ctype-2.c -g (test for excess errors)
+PASS: gcc.dg/torture/builtin-wctype-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/cris-volatile-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr17933-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr19462-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr23424-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr24257.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr24626-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr24626-3.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr24750-1.c -g (test for excess errors)
+FAIL: gcc.dg/torture/pr24912-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr25718-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr25718-1.c -g execution test
+PASS: gcc.dg/torture/pr25947-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr26258.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr26258.c -g execution test
+PASS: gcc.dg/torture/pr26587.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr26587.c -g execution test
+FAIL: gcc.dg/torture/pr26672.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr26763-1.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr26763-1.c -g execution test
+PASS: gcc.dg/torture/pr26763-2.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr26763-2.c -g execution test
+PASS: gcc.dg/torture/pr27136.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr27603.c -g (test for excess errors)
+PASS: gcc.dg/torture/pr27603.c -g execution test
+PASS: gcc.dg/torture/tree-loop-1.c -g (test for excess errors)
+Running ./gcc.dg/tree-prof/tree-prof.exp ...
+Running ./gcc.dg/vect/vect.exp ...
+FAIL: gcc.dg/vect/vect-82.c (test for excess errors)
+UNRESOLVED: gcc.dg/vect/vect-82.c compilation failed to produce executable
+FAIL: gcc.dg/vect/vect-82_64.c (test for excess errors)
+FAIL: gcc.dg/vect/vect-83.c (test for excess errors)
+UNRESOLVED: gcc.dg/vect/vect-83.c compilation failed to produce executable
+FAIL: gcc.dg/vect/vect-83_64.c (test for excess errors)
+Running ./gcc.dg/weak/weak.exp ...
+PASS: gcc.dg/weak/weak-8.c (test for excess errors)
+Running ./gcc.test-framework/test-framework.exp ...
+
+		=== gcc Summary ===
+
+# of expected passes		2143
+# of unexpected failures	511
+# of unresolved testcases	321
+/usr/local/bin/mlitecc  version to stdout and stop with exit code 0.
+

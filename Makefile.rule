@@ -1,0 +1,71 @@
+.SUFFIXES:
+.SUFFIXES: .c .o 
+
+.c.o:
+	cpp $(CPPFLAGS) $< $<.i
+	gcc $(CFLAGS) -c -x c $<.i
+	yc $(YCFLAGS) --cproto --debug-ast --file $<.i
+	gcc $(CFLAGS) -x c -c -o $@ $<.000.c99
+	#rm -rf $@
+	gcc $(CFLAGS) -x c -c -o $@ $<.010.stmt
+	rm -rf $@
+	gcc $(CFLAGS) -x c -c -o $@ $<.020.expr
+	rm -rf $@
+	gcc $(CFLAGS) -x c -c -o $@ $<.030.type
+	rm -rf $@
+	gcc $(CLFAGS) -x c -c -o $@ $<.040.type
+	rm -rf $@
+	gcc $(CFLAGS) -x c -c -o $@ $<.050.expr
+	rm -rf $@
+	gcc $(CFLAGS) -x c -c -o $@ $<.060.init
+	rm -rf $@
+	gcc $(CFLAGS) -x c -c -o $@ $<.070.expr
+	#rm -rf $@
+	#gcc $(CFLAGS) -x c -c -o $@ $<.080.code
+	#rm -rf $@
+	#gcc $(CFLAGS) -x c -c -o $@ $<.090.stmt
+	#rm -rf $@
+	#gcc $(CFLAGS) -x c -c -o $@ $<.100.code
+
+clean_rule:
+	rm -rf *.i 
+	rm -rf *.s 
+	rm -rf *.o
+	rm -rf *.cabs
+	rm -rf *.cproto
+	rm -rf *.000.c99
+	rm -rf *.010.stmt
+	rm -rf *.020.expr
+	rm -rf *.030.type
+	rm -rf *.032.type
+	rm -rf *.040.type
+	rm -rf *.050.expr
+	rm -rf *.060.init
+	rm -rf *.070.expr
+	rm -rf *.080.code
+	rm -rf *.090.stmt
+	rm -rf *.100.code
+	rm -rf *.cil.c
+	rm -rf *.0?0.*
+	rm -rf *.1?0.*
+	rm -rf *.c.i.a.0.*
+	rm -rf *.c.i.a.1.*
+	rm -rf *.c.i.a.2.*
+	rm -rf *.c.i.l.0.*
+	rm -rf *.c.i.l.1.*
+	rm -rf *.c.i.l.2.*
+	rm -rf *.c.i.h.0.*
+	rm -rf *.c.i.h.1.*
+	rm -rf *.c.i.h.2.*
+	rm -rf *.c.i.norm.* 
+	rm -rf *.c.i.l.*
+	rm -rf *.c.i.h.*
+	rm -rf *.c.i.a.*
+	rm -rf *.i.norm.*
+	rm -rf *.c.norm.*
+	rm -rf *.norm.*
+	rm -rf *.da
+	rm -rf *.bbg
+	rm -rf *.S
+	rm -rf *.yapa.c
+

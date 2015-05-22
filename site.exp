@@ -1,0 +1,6 @@
+#set GCC_UNDER_TEST "gcc -DNO_LABEL_VALUES=1 -DSKIP_COMPLEX_INT=1 -DSKIP_ATTRIBUTE=1 -fno-builtin -save-temps" 
+#set GCC_UNDER_TEST "mlitecc ---silence --disable-line-number ---gcc --ast-ea-expr --vararg ---host-c-argv -DNO_LABEL_VALUES=1 -DSKIP_COMPLEX_INT=1 -DSKIP_ATTRIBUTE=1"
+set GCC_UNDER_TEST "mlitecc ---silence --disable-line-number --vararg ---host-c-argv -DNO_LABEL_VALUES=1 -DSKIP_COMPLEX_INT=1 -DSKIP_ATTRIBUTE=1"
+set TORTURE_OPTIONS "-g"
+#set GCC_UNDER_TEST "gcc -DNO_LABEL_VALUES=1 -DSKIP_COMPLEX_INT=1 -DSKIP_ATTRIBUTE=1"
+set HOSTCC "gcc"

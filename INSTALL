@@ -1,0 +1,14 @@
+1. Requirement:
+mlitecc
+dejagnu
+
+
+2. add the location of mlitecc  to PATH
+
+3. copy this fold including this INSTALL file into the location you choosed. 
+
+4. read README.mlitecc to understand how to setup a test
+
+5. run 'make check'
+
+
